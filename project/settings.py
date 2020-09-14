@@ -42,7 +42,7 @@ INTERNAL_APPS = [
 THIRD_PARTY_APPS = []
 
 # All apps developed at GreenGrowth goes here
-DEV_APPS = []
+DEV_APPS = ["leaveapp"]
 
 INSTALLED_APPS = INTERNAL_APPS + THIRD_PARTY_APPS + DEV_APPS
 
