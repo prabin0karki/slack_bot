@@ -30,7 +30,7 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
-INSTALLED_APPS = [
+INTERNAL_APPS = [
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
@@ -38,6 +38,13 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
 ]
+
+THIRD_PARTY_APPS = []
+
+# All apps developed at GreenGrowth goes here
+DEV_APPS = []
+
+INSTALLED_APPS = INTERNAL_APPS + THIRD_PARTY_APPS + DEV_APPS
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
