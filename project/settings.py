@@ -29,9 +29,9 @@ DEBUG = True
 ALLOWED_HOSTS = ["*"]
 
 # Your app's Slack bot user token
-SLACK_BOT_TOKEN = "xoxb-1047557842517-1369504906689-yhtOXJ1BMygyjRHLqc3ZdLLV"
-SLACK_VERIFICATION_TOKEN = "1fuI6Qyl5hWiyh8bkVG1Hf1u"
-SLACK_URL = "https://slack.com/api/dialog.open"
+SLACK_BOT_TOKEN = ""
+SLACK_VERIFICATION_TOKEN = ""
+SLACK_URL = ""
 
 
 # Application definition
