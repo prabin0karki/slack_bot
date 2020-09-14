@@ -20,7 +20,7 @@ LEAVE_CHOICES = (
 class Leave(models.Model):
     title = models.CharField(max_length=250)
     description = models.TextField()
-    created_at = models.DateField()
+    created_at = models.DateField(null=True)
     status = models.CharField(choices=REQUEST_CHOICES, default="pending", max_length=15)
     leave_type = models.CharField(
         choices=LEAVE_CHOICES, default="first_half", max_length=15

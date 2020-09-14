@@ -4,6 +4,8 @@ from django.views.decorators.csrf import csrf_exempt
 from django.http import HttpResponse
 from django.views.decorators.http import require_http_methods
 import slack
+import json
+from leaveapp.models import Leave
 
 # Create your views here.
 
@@ -21,8 +23,7 @@ def leaveApply(request):
     for i in json_dict:
         idx = i.index(":")
         data.update({i[:idx]: i[idx + 1 :]})
-    print(data)
-    support_form = slack_client.dialog_open(
+    slack_client.dialog_open(
         trigger_id=data["trigger_id"],
         dialog={
             "title": "Fill the form for Leave",
@@ -54,5 +55,23 @@ def leaveApply(request):
             ],
         },
     )
-    print(support_form)
+    return HttpResponse(status=200)
+
+
+@csrf_exempt
+@require_http_methods(["GET", "POST"])
+def leaveinfo(request):
+    print(dir(slack_client))
+    data_obj = json.loads(request.POST.get("payload"))
+    Leave.objects.create(
+        title=data_obj["submission"]["subject"],
+        description=data_obj["submission"]["body"],
+        leave_type=data_obj["submission"]["leave_type"],
+        user_name=data_obj["user"]["name"],
+    )
+    # print("-----------------")
+    # print(data_obj['channel']['id'])
+    # slack_client.chat_postMessage(
+    #     channel=data_obj['channel']['id'],
+    #     text="Hello world!")
     return HttpResponse(status=200)
