@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 
 from pathlib import Path
 
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -25,7 +26,12 @@ SECRET_KEY = "a%q!8!#01g*5!y7=wy=sk+#r6jqbl17xnd6#+g$(l=4)9(z*2p"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
+
+# Your app's Slack bot user token
+SLACK_BOT_TOKEN = "xoxb-1047557842517-1369504906689-yhtOXJ1BMygyjRHLqc3ZdLLV"
+SLACK_VERIFICATION_TOKEN = "1fuI6Qyl5hWiyh8bkVG1Hf1u"
+SLACK_URL = "https://slack.com/api/dialog.open"
 
 
 # Application definition

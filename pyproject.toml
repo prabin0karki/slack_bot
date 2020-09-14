@@ -8,6 +8,9 @@ authors = ["pk karki <prabin@abhiyantrik.com>"]
 python = "^3.8"
 Django = "^3.1.1"
 psycopg2 = "^2.8.6"
+slackclient = "^2.8.2"
+slackeventsapi = "^2.2.1"
+requests = "^2.24.0"
 
 [tool.poetry.dev-dependencies]
 black = "^20.8b1"
