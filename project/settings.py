@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 
 from pathlib import Path
 
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -25,7 +26,12 @@ SECRET_KEY = "a%q!8!#01g*5!y7=wy=sk+#r6jqbl17xnd6#+g$(l=4)9(z*2p"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
+
+# Your app's Slack bot user token
+SLACK_BOT_TOKEN = ""
+SLACK_VERIFICATION_TOKEN = ""
+SLACK_URL = ""
 
 
 # Application definition
@@ -42,7 +48,7 @@ INTERNAL_APPS = [
 THIRD_PARTY_APPS = []
 
 # All apps developed at GreenGrowth goes here
-DEV_APPS = []
+DEV_APPS = ["leaveapp"]
 
 INSTALLED_APPS = INTERNAL_APPS + THIRD_PARTY_APPS + DEV_APPS
 
