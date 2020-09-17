@@ -6,16 +6,22 @@ from django.views.decorators.http import require_http_methods
 import slack
 import json
 from leaveapp.models import Leave
+from .form import leaveRegisterForm, leaveRegisterViewForm
+from slack.errors import SlackApiError
+from datetime import datetime
+
+from rest_framework.views import APIView
+from rest_framework.response import Response
+from rest_framework import status
 
 # Create your views here.
 
-slack_client = slack.WebClient(token=settings.SLACK_BOT_TOKEN)
+slack_client = slack.WebClient(
+    token=settings.SLACK_BOT_TOKEN,
+)
 
 
-@csrf_exempt
-@require_http_methods(["POST"])
-def leaveApply(request):
-    json_dict = request.body.decode("utf-8")
+def jsontodic(json_dict):
     json_dict = json_dict.replace("=", ":")
     json_dict = json_dict.replace("&", ",")
     json_dict = json_dict.split(",")
@@ -23,55 +29,64 @@ def leaveApply(request):
     for i in json_dict:
         idx = i.index(":")
         data.update({i[:idx]: i[idx + 1 :]})
-    slack_client.dialog_open(
-        trigger_id=data["trigger_id"],
-        dialog={
-            "title": "Fill the form for Leave",
-            "submit_label": "Submit",
-            "callback_id": data["user_id"],
-            "elements": [
-                {
-                    "label": "Subject",
-                    "type": "text",
-                    "name": "subject",
-                    "placeholder": "Subject for Leave",
-                },
-                {
-                    "label": "Description",
-                    "type": "textarea",
-                    "name": "body",
-                    "placeholder": "Reason for Leave",
-                },
-                {
-                    "label": "Type of Leave",
-                    "type": "select",
-                    "name": "leave_type",
-                    "options": [
-                        {"label": "First Half", "value": "first_half"},
-                        {"label": "Second Half", "value": "second_half"},
-                        {"label": "Full Day", "value": "full_day"},
-                    ],
-                },
-            ],
-        },
-    )
-    return HttpResponse(status=200)
+    return data
+
+
+# class Events(APIView):
+#     def post(self, request, *args, **kwargs):
+#         if request.data['trigger_id'] and request.data['channel_id']:
+#             try:
+#                 slack_client.views_open(
+#                     trigger_id=request.data['trigger_id'],
+#                     view=leaveRegisterViewForm()
+#                 )
+#                 return Response(status=200)
+#             except SlackApiError as e:
+#                 print(e)
+#                 slack_client.chat_postMessage(
+#                     channel=request.data['channel_id'],
+#                     text='trigger_expired'
+#                 )
+#                 return Response("Fail", e.response.status_code)
+#         return Response("requesd data is fail")
+
+
+@csrf_exempt
+@require_http_methods(["POST"])
+def leaveApply(request):
+    json_dict = request.body.decode("utf-8")
+    data = jsontodic(json_dict)
+    try:
+        slack_client.views_open(
+            trigger_id=data["trigger_id"], view=leaveRegisterViewForm()
+        )
+        return HttpResponse(status=200)
+    except SlackApiError as e:
+        print(e)
+        slack_client.chat_postMessage(
+            channel=data["channel_id"], text="trigger_expired"
+        )
+        return HttpResponse("Fail", e.response.status_code)
+
+    # slack_client.dialog_open(
+    #         trigger_id=data["trigger_id"],
+    #         dialog=leaveRegisterForm(data["user_id"])
+    #     )
 
 
 @csrf_exempt
 @require_http_methods(["GET", "POST"])
 def leaveinfo(request):
-    print(dir(slack_client))
+    print("-------------")
+    print(request.POST.get)
     data_obj = json.loads(request.POST.get("payload"))
-    Leave.objects.create(
-        title=data_obj["submission"]["subject"],
-        description=data_obj["submission"]["body"],
-        leave_type=data_obj["submission"]["leave_type"],
-        user_name=data_obj["user"]["name"],
-    )
-    # print("-----------------")
-    # print(data_obj['channel']['id'])
-    # slack_client.chat_postMessage(
-    #     channel=data_obj['channel']['id'],
-    #     text="Hello world!")
+    print("==============")
+    print(data_obj)
+    # Leave.objects.create(
+    #     title=data_obj["submission"]["subject"],
+    #     description=data_obj["submission"]["body"],
+    #     leave_type=data_obj["submission"]["leave_type"],
+    #     user_name=data_obj["user"]["name"],
+    # )
+
     return HttpResponse(status=200)
