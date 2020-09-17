@@ -1,0 +1,7 @@
+2020-09-17 15:48:12,266 uvicorn.error INFO     Started server process [126724]
+2020-09-17 15:48:12,267 uvicorn.error INFO     Waiting for application startup.
+2020-09-17 15:48:12,267 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-17 15:48:12,267 uvicorn.error INFO     Application startup complete.
+2020-09-17 15:48:27,514 leaveapp.views INFO     slack model open successfully.
+2020-09-17 15:50:09,761 uvicorn.error INFO     Shutting down
+2020-09-17 15:50:09,862 uvicorn.error INFO     Finished server process [126724]
