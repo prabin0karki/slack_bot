@@ -9,3 +9,4 @@ ngrok
 .vscode
 /log/
 /log/*
+.env

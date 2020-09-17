@@ -5,3 +5,27 @@
 2020-09-17 15:48:27,514 leaveapp.views INFO     slack model open successfully.
 2020-09-17 15:50:09,761 uvicorn.error INFO     Shutting down
 2020-09-17 15:50:09,862 uvicorn.error INFO     Finished server process [126724]
+2020-09-17 16:05:52,362 uvicorn.error INFO     Started server process [127535]
+2020-09-17 16:05:52,362 uvicorn.error INFO     Waiting for application startup.
+2020-09-17 16:05:52,362 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-17 16:05:52,362 uvicorn.error INFO     Application startup complete.
+2020-09-17 16:06:30,582 uvicorn.error INFO     Shutting down
+2020-09-17 16:06:30,682 uvicorn.error INFO     Finished server process [127535]
+2020-09-17 16:13:57,822 uvicorn.error INFO     Started server process [127828]
+2020-09-17 16:13:57,822 uvicorn.error INFO     Waiting for application startup.
+2020-09-17 16:13:57,822 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-17 16:13:57,822 uvicorn.error INFO     Application startup complete.
+2020-09-17 16:14:06,250 uvicorn.error INFO     Shutting down
+2020-09-17 16:14:06,351 uvicorn.error INFO     Finished server process [127828]
+2020-09-17 16:14:06,764 uvicorn.error INFO     Started server process [127846]
+2020-09-17 16:14:06,764 uvicorn.error INFO     Waiting for application startup.
+2020-09-17 16:14:06,765 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-17 16:14:06,765 uvicorn.error INFO     Application startup complete.
+2020-09-17 16:14:44,779 uvicorn.error INFO     Shutting down
+2020-09-17 16:14:44,880 uvicorn.error INFO     Finished server process [127846]
+2020-09-17 16:14:45,276 uvicorn.error INFO     Started server process [127875]
+2020-09-17 16:14:45,276 uvicorn.error INFO     Waiting for application startup.
+2020-09-17 16:14:45,277 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-17 16:14:45,277 uvicorn.error INFO     Application startup complete.
+2020-09-17 16:14:49,791 uvicorn.error INFO     Shutting down
+2020-09-17 16:14:49,892 uvicorn.error INFO     Finished server process [127875]

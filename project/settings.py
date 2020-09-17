@@ -9,16 +9,17 @@ https://docs.djangoproject.com/en/3.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.1/ref/settings/
 """
-
 import os
-import datetime
 import logging
 import logging.config
-from pathlib import Path
 
+# from django.utils.log import DEFAULT_LOGGING
+
+from pathlib import Path
 
 # Disable Django's logging setup
 LOGGING_CONFIG = None
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -36,9 +37,8 @@ DEBUG = True
 ALLOWED_HOSTS = ["*"]
 
 # Your app's Slack bot user token
-SLACK_BOT_TOKEN = "xoxb-1389975248464-1351397309671-nx1Vu6jz3avXrhsTjTNpuwNO"
-SLACK_VERIFICATION_TOKEN = "mxO7d8phRmvRUpVEbViRiDfN"
-SLACK_URL = "https://slack.com/api/dialog.open"
+SLACK_BOT_TOKEN = ""
+SLACK_VERIFICATION_TOKEN = ""
 
 
 # Application definition
@@ -137,7 +137,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = "/static/"
-
 
 logging.config.dictConfig(
     {
