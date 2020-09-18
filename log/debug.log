@@ -4214,3 +4214,45 @@ The server responded with: {'ok': False, 'error': 'trigger_expired'}
 2020-09-18 07:21:01,223 leaveapp.views INFO     slack model open successfully.
 2020-09-18 07:22:27,681 uvicorn.error INFO     Shutting down
 2020-09-18 07:22:27,782 uvicorn.error INFO     Finished server process [80743]
+2020-09-18 07:35:25,109 uvicorn.error INFO     Started server process [84491]
+2020-09-18 07:35:25,109 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:35:25,109 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:35:25,109 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:35:39,087 leaveapp.views INFO     With in a 0.8186116218566895 second, model is open.
+2020-09-18 07:35:39,088 leaveapp.views INFO     slack model open successfully.
+2020-09-18 07:38:56,279 uvicorn.error INFO     Shutting down
+2020-09-18 07:38:56,381 uvicorn.error INFO     Finished server process [84491]
+2020-09-18 07:40:57,529 uvicorn.error INFO     Started server process [85826]
+2020-09-18 07:40:57,529 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:40:57,529 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:40:57,529 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:41:04,644 leaveapp.views INFO     With in a 0.8692150115966797 second, model is open.
+2020-09-18 07:41:04,645 leaveapp.views INFO     slack model open successfully.
+2020-09-18 07:43:39,056 uvicorn.error INFO     Shutting down
+2020-09-18 07:43:39,157 uvicorn.error INFO     Finished server process [85826]
+2020-09-18 07:43:39,616 uvicorn.error INFO     Started server process [86432]
+2020-09-18 07:43:39,617 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:43:39,617 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:43:39,617 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:44:34,195 uvicorn.error INFO     Shutting down
+2020-09-18 07:44:34,296 uvicorn.error INFO     Finished server process [86432]
+2020-09-18 07:44:36,243 uvicorn.error INFO     Started server process [86680]
+2020-09-18 07:44:36,244 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:44:36,244 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:44:36,244 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:45:03,936 uvicorn.error INFO     Shutting down
+2020-09-18 07:45:04,038 uvicorn.error INFO     Finished server process [86680]
+2020-09-18 07:45:06,767 uvicorn.error INFO     Started server process [86746]
+2020-09-18 07:45:06,767 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:45:06,767 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:45:06,768 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:45:20,308 leaveapp.views ERROR    The request to the Slack API failed.
+The server responded with: {'ok': False, 'error': 'trigger_expired'}
+2020-09-18 07:45:38,954 leaveapp.views INFO     With in a 0.7504956722259521 second, model is open.
+2020-09-18 07:45:38,955 leaveapp.views INFO     slack model open successfully.
+2020-09-18 07:46:03,101 leaveapp.views INFO     With in a 0.7227392196655273 second, model is open.
+2020-09-18 07:46:03,102 leaveapp.views INFO     slack model open successfully.
+2020-09-18 07:46:09,462 leaveapp.views INFO     With in a 0.762831449508667 second, model is open.
+2020-09-18 07:46:09,462 leaveapp.views INFO     slack model open successfully.
+2020-09-18 07:46:15,400 uvicorn.error INFO     Shutting down
+2020-09-18 07:46:15,501 uvicorn.error INFO     Finished server process [86746]
