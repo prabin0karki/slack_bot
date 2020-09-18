@@ -16,6 +16,7 @@ import logging.config
 # from django.utils.log import DEFAULT_LOGGING
 
 from pathlib import Path
+from decouple import config
 
 # Disable Django's logging setup
 LOGGING_CONFIG = None
@@ -32,12 +33,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "a%q!8!#01g*5!y7=wy=sk+#r6jqbl17xnd6#+g$(l=4)9(z*2p"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = config("DEBUG", default=False, cast=bool)
 
 ALLOWED_HOSTS = ["*"]
 
 # Your app's Slack bot user token
-SLACK_BOT_TOKEN = ""
+SLACK_BOT_TOKEN = config("SLACK_BOT_TOKEN")
 
 
 # Application definition
@@ -62,6 +63,7 @@ INSTALLED_APPS = INTERNAL_APPS + THIRD_PARTY_APPS + DEV_APPS
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
+    "whitenoise.middleware.WhiteNoiseMiddleware",
     "django.middleware.common.CommonMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
     "django.contrib.auth.middleware.AuthenticationMiddleware",
@@ -136,6 +138,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = "/static/"
+
+STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
+STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
 logging.config.dictConfig(
     {

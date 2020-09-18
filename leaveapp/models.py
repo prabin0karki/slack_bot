@@ -6,8 +6,8 @@ from django.utils.translation import ugettext_lazy as _
 
 REQUEST_CHOICES = (
     ("pending", _("Pending")),
-    ("accepted", _("Accepted")),
-    ("rejected", _("Rejected")),
+    ("accept", _("Accept")),
+    ("reject", _("Reject")),
 )
 
 LEAVE_CHOICES = (
@@ -27,6 +27,8 @@ class Leave(models.Model):
     )
     updated_at = models.DateField(null=True)
     user_name = models.CharField(max_length=50)
+    leave_date = models.DateField(null=True)
+    channel_id = models.CharField(max_length=150, default="")
 
     class Meta:
         db_table = "leave"
