@@ -9,8 +9,16 @@ https://docs.djangoproject.com/en/3.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.1/ref/settings/
 """
+import os
+import logging
+import logging.config
+
+# from django.utils.log import DEFAULT_LOGGING
 
 from pathlib import Path
+
+# Disable Django's logging setup
+LOGGING_CONFIG = None
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -30,8 +38,6 @@ ALLOWED_HOSTS = ["*"]
 
 # Your app's Slack bot user token
 SLACK_BOT_TOKEN = ""
-SLACK_VERIFICATION_TOKEN = ""
-SLACK_URL = ""
 
 
 # Application definition
@@ -43,6 +49,7 @@ INTERNAL_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    "rest_framework",
 ]
 
 THIRD_PARTY_APPS = []
@@ -129,3 +136,31 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = "/static/"
+
+logging.config.dictConfig(
+    {
+        "version": 1,
+        "disable_existing_loggers": False,
+        "formatters": {
+            "console": {
+                # exact format is not important, this is the minimum information
+                "format": "%(asctime)s %(name)-12s %(levelname)-8s %(message)s",
+            },
+            "file": {"format": "%(asctime)s %(name)-12s %(levelname)-8s %(message)s"},
+        },
+        "handlers": {
+            # console logs to stderr
+            "console": {"class": "logging.StreamHandler", "formatter": "console"},
+            "file": {
+                "level": "DEBUG",
+                "class": "logging.FileHandler",
+                "formatter": "file",
+                "filename": os.path.join((BASE_DIR), "log", "debug.log"),
+            },
+        },
+        "loggers": {
+            # default for all undefined Python modules
+            "": {"level": "INFO", "handlers": ["console", "file"]},
+        },
+    }
+)

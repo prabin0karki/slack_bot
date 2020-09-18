@@ -3,6 +3,8 @@ from . import views
 
 app_name = "leaveapp"
 urlpatterns = [
-    path("leave", views.leaveApply, name="leaveApply"),
-    path("leaveinfo", views.leaveinfo, name="leaveinfo"),
+    path("leaveinfo", views.LeaveEventInfo.as_view()),
+    path("leave", views.LeaveEvent.as_view()),
+    path("task", views.TaskEvent.as_view()),
+    # path("leave", views.leaveApply, name="leaveApply"),
 ]
