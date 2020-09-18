@@ -38,7 +38,6 @@ ALLOWED_HOSTS = ["*"]
 
 # Your app's Slack bot user token
 SLACK_BOT_TOKEN = ""
-SLACK_VERIFICATION_TOKEN = ""
 
 
 # Application definition

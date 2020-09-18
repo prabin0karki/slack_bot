@@ -3,6 +3,7 @@ async def leaveRegisterForm(user_id):
         "title": "Fill the form for Leave",
         "submit_label": "Submit",
         "callback_id": user_id,
+        "state": "leaveform",
         "elements": [
             {
                 "label": "Subject",
@@ -26,14 +27,65 @@ async def leaveRegisterForm(user_id):
                     {"label": "Full Day", "value": "full_day"},
                 ],
             },
+            {
+                "label": "Pick a date for leave.",
+                "type": "text",
+                "name": "date",
+                "placeholder": "Enter a date",
+                "hint": "Date format YYYY-MM-DD",
+            },
         ],
     }
     return dialog
 
 
-async def leaveRegisterViewForm():
+async def taskAddForm(user_id):
+    dialog = {
+        "title": "Add your task",
+        "submit_label": "Submit",
+        "callback_id": user_id,
+        "state": "taskadd",
+        "elements": [
+            {
+                "label": "Task Title",
+                "type": "text",
+                "name": "subject",
+                "placeholder": "Title of task",
+            },
+            {
+                "label": "Description",
+                "type": "textarea",
+                "name": "body",
+                "placeholder": "description",
+            },
+            {
+                "label": "Estimated Hours",
+                "type": "select",
+                "name": "estimated_hours",
+                "options": [
+                    {"label": "Ten Minutes", "value": "0.166"},
+                    {"label": "Thirty Minutes", "value": "0.5"},
+                    {"label": "One Houre", "value": "1"},
+                    {"label": "Two Houre", "value": "2"},
+                    {"label": "Three Houre", "value": "3"},
+                    {"label": "Four Houre", "value": "4"},
+                    {"label": "Five Houre", "value": "5"},
+                    {"label": "Six Houre", "value": "6"},
+                    {"label": "Seven Houre", "value": "7"},
+                    {"label": "Two Days", "value": "14"},
+                    {"label": "One Week", "value": "35"},
+                ],
+            },
+        ],
+    }
+    return dialog
+
+
+async def leaveRegisterViewForm(user_id):
     view = {
+        "private_metadata": "leaveform",
         "type": "modal",
+        "callback_id": user_id,
         "title": {"type": "plain_text", "text": "Ask for a  Leave"},
         "submit": {"type": "plain_text", "text": "Submit"},
         "blocks": [
