@@ -6,7 +6,7 @@ from leaveapp.models import Leave
 
 
 class Leaveapp(admin.ModelAdmin):
-    list_display = ("id", "title", "leave_type", "status", "user_name")
+    list_display = ("id", "title", "leave_type", "status", "user_name", "leave_date")
 
 
 admin.site.register(Leave, Leaveapp)

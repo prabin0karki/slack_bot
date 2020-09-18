@@ -4256,3 +4256,1804 @@ The server responded with: {'ok': False, 'error': 'trigger_expired'}
 2020-09-18 07:46:09,462 leaveapp.views INFO     slack model open successfully.
 2020-09-18 07:46:15,400 uvicorn.error INFO     Shutting down
 2020-09-18 07:46:15,501 uvicorn.error INFO     Finished server process [86746]
+2020-09-18 07:51:17,274 uvicorn.error INFO     Started server process [88240]
+2020-09-18 07:51:17,274 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:51:17,274 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:51:17,274 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:51:45,762 uvicorn.error INFO     Shutting down
+2020-09-18 07:51:45,863 uvicorn.error INFO     Finished server process [88240]
+2020-09-18 07:51:46,338 uvicorn.error INFO     Started server process [88384]
+2020-09-18 07:51:46,339 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:51:46,339 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:51:46,339 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:51:55,565 uvicorn.error INFO     Shutting down
+2020-09-18 07:51:55,666 uvicorn.error INFO     Finished server process [88384]
+2020-09-18 07:51:56,153 uvicorn.error INFO     Started server process [88431]
+2020-09-18 07:51:56,153 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:51:56,153 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:51:56,153 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:52:00,569 uvicorn.error INFO     Shutting down
+2020-09-18 07:52:00,670 uvicorn.error INFO     Finished server process [88431]
+2020-09-18 07:52:01,175 uvicorn.error INFO     Started server process [88467]
+2020-09-18 07:52:01,176 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:52:01,176 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:52:01,176 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:52:11,709 uvicorn.error INFO     Shutting down
+2020-09-18 07:52:11,809 uvicorn.error INFO     Finished server process [88467]
+2020-09-18 07:52:12,241 uvicorn.error INFO     Started server process [88515]
+2020-09-18 07:52:12,241 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:52:12,241 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:52:12,242 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:52:28,694 uvicorn.error INFO     Shutting down
+2020-09-18 07:52:28,794 uvicorn.error INFO     Finished server process [88515]
+2020-09-18 07:52:29,228 uvicorn.error INFO     Started server process [88596]
+2020-09-18 07:52:29,229 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:52:29,229 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:52:29,229 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:52:51,395 uvicorn.error INFO     Shutting down
+2020-09-18 07:52:51,495 uvicorn.error INFO     Finished server process [88596]
+2020-09-18 07:52:51,914 uvicorn.error INFO     Started server process [88680]
+2020-09-18 07:52:51,914 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:52:51,914 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:52:51,914 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:52:55,026 uvicorn.error INFO     Shutting down
+2020-09-18 07:52:55,126 uvicorn.error INFO     Finished server process [88680]
+2020-09-18 07:52:55,577 uvicorn.error INFO     Started server process [88707]
+2020-09-18 07:52:55,578 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:52:55,578 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:52:55,578 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:53:01,096 uvicorn.error INFO     Shutting down
+2020-09-18 07:53:01,197 uvicorn.error INFO     Finished server process [88707]
+2020-09-18 07:53:01,584 uvicorn.error INFO     Started server process [88747]
+2020-09-18 07:53:01,584 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:53:01,585 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:53:01,585 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:53:06,099 uvicorn.error INFO     Shutting down
+2020-09-18 07:53:06,199 uvicorn.error INFO     Finished server process [88747]
+2020-09-18 07:53:06,621 uvicorn.error INFO     Started server process [88775]
+2020-09-18 07:53:06,622 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:53:06,622 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:53:06,622 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:53:09,733 uvicorn.error INFO     Shutting down
+2020-09-18 07:53:09,833 uvicorn.error INFO     Finished server process [88775]
+2020-09-18 07:53:10,261 uvicorn.error INFO     Started server process [88803]
+2020-09-18 07:53:10,261 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:53:10,262 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:53:10,262 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:53:53,200 uvicorn.error INFO     Shutting down
+2020-09-18 07:53:53,300 uvicorn.error INFO     Finished server process [88803]
+2020-09-18 07:53:53,771 uvicorn.error INFO     Started server process [88965]
+2020-09-18 07:53:53,771 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:53:53,772 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:53:53,772 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:53:59,692 uvicorn.error INFO     Shutting down
+2020-09-18 07:53:59,792 uvicorn.error INFO     Finished server process [88965]
+2020-09-18 07:54:00,232 uvicorn.error INFO     Started server process [89000]
+2020-09-18 07:54:00,232 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:54:00,232 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:54:00,233 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:54:23,410 uvicorn.error INFO     Shutting down
+2020-09-18 07:54:23,511 uvicorn.error INFO     Finished server process [89000]
+2020-09-18 07:54:23,960 uvicorn.error INFO     Started server process [89095]
+2020-09-18 07:54:23,960 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:54:23,961 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:54:23,961 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:54:37,693 leaveapp.views INFO     With in a 0.8581840991973877 second, model is open.
+2020-09-18 07:54:37,694 leaveapp.views INFO     slack model open successfully.
+2020-09-18 07:55:18,912 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 81, in post
+    Leave.objects.create(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 1249, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    with self.connection.cursor() as cursor:
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/asyncio.py", line 24, in inner
+    raise SynchronousOnlyOperation(message)
+django.core.exceptions.SynchronousOnlyOperation: You cannot call this from an async context - use a thread or sync_to_async.
+2020-09-18 07:55:52,566 uvicorn.error INFO     Shutting down
+2020-09-18 07:55:52,666 uvicorn.error INFO     Finished server process [89095]
+2020-09-18 07:55:53,098 uvicorn.error INFO     Started server process [89428]
+2020-09-18 07:55:53,098 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:55:53,098 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:55:53,099 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:56:04,036 uvicorn.error INFO     Shutting down
+2020-09-18 07:56:04,137 uvicorn.error INFO     Finished server process [89428]
+2020-09-18 07:56:04,545 uvicorn.error INFO     Started server process [89477]
+2020-09-18 07:56:04,545 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:56:04,546 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:56:04,546 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:56:11,293 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 81, in post
+    await sync_to_async(Leave.objects.create(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 1249, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    with self.connection.cursor() as cursor:
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/asyncio.py", line 24, in inner
+    raise SynchronousOnlyOperation(message)
+django.core.exceptions.SynchronousOnlyOperation: You cannot call this from an async context - use a thread or sync_to_async.
+2020-09-18 07:58:46,233 uvicorn.error INFO     Shutting down
+2020-09-18 07:58:46,334 uvicorn.error INFO     Finished server process [89477]
+2020-09-18 07:58:46,770 uvicorn.error INFO     Started server process [90058]
+2020-09-18 07:58:46,770 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:58:46,770 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:58:46,770 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:58:54,262 uvicorn.error ERROR    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/deprecation.py", line 126, in __acall__
+    response = await sync_to_async(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/middleware/common.py", line 53, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/middleware/common.py", line 71, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/base.py", line 154, in is_valid_path
+    resolve(path, urlconf)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/base.py", line 25, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 545, in resolve
+    for pattern in self.url_patterns:
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 589, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/urls.py", line 21, in <module>
+    path("api/v1/", include("project.apiurls")),
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/apiurls.py", line 4, in <module>
+    urlpatterns = [path("", include("leaveapp.apiurls"))]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./leaveapp/apiurls.py", line 2, in <module>
+    from . import views
+  File "./leaveapp/views.py", line 80
+    await sync_to_async(Leave.objects.create(
+    ^
+SyntaxError: 'await' outside async function
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/deprecation.py", line 130, in __acall__
+    response = response or await self.get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 40, in inner
+    response = await sync_to_async(response_for_exception)(request, exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 332, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 103, in response_for_exception
+    response = handle_uncaught_exception(request, get_resolver(get_urlconf()), sys.exc_info())
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/urls.py", line 21, in <module>
+    path("api/v1/", include("project.apiurls")),
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/apiurls.py", line 4, in <module>
+    urlpatterns = [path("", include("leaveapp.apiurls"))]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./leaveapp/apiurls.py", line 2, in <module>
+    from . import views
+  File "./leaveapp/views.py", line 80
+    await sync_to_async(Leave.objects.create(
+    ^
+SyntaxError: 'await' outside async function
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/deprecation.py", line 130, in __acall__
+    response = response or await self.get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 40, in inner
+    response = await sync_to_async(response_for_exception)(request, exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 332, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 103, in response_for_exception
+    response = handle_uncaught_exception(request, get_resolver(get_urlconf()), sys.exc_info())
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/urls.py", line 21, in <module>
+    path("api/v1/", include("project.apiurls")),
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/apiurls.py", line 4, in <module>
+    urlpatterns = [path("", include("leaveapp.apiurls"))]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./leaveapp/apiurls.py", line 2, in <module>
+    from . import views
+  File "./leaveapp/views.py", line 80
+    await sync_to_async(Leave.objects.create(
+    ^
+SyntaxError: 'await' outside async function
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/asgi.py", line 161, in __call__
+    response = await self.get_response_async(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 148, in get_response_async
+    response = await self._middleware_chain(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 40, in inner
+    response = await sync_to_async(response_for_exception)(request, exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 332, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 103, in response_for_exception
+    response = handle_uncaught_exception(request, get_resolver(get_urlconf()), sys.exc_info())
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/urls.py", line 21, in <module>
+    path("api/v1/", include("project.apiurls")),
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/apiurls.py", line 4, in <module>
+    urlpatterns = [path("", include("leaveapp.apiurls"))]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./leaveapp/apiurls.py", line 2, in <module>
+    from . import views
+  File "./leaveapp/views.py", line 80
+    await sync_to_async(Leave.objects.create(
+    ^
+SyntaxError: 'await' outside async function
+2020-09-18 07:59:07,541 uvicorn.error INFO     Shutting down
+2020-09-18 07:59:07,642 uvicorn.error INFO     Finished server process [90058]
+2020-09-18 07:59:08,138 uvicorn.error INFO     Started server process [90156]
+2020-09-18 07:59:08,139 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:59:08,139 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:59:08,139 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:59:37,737 uvicorn.error INFO     Shutting down
+2020-09-18 07:59:37,837 uvicorn.error INFO     Finished server process [90156]
+2020-09-18 07:59:38,283 uvicorn.error INFO     Started server process [90277]
+2020-09-18 07:59:38,284 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:59:38,284 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:59:38,284 uvicorn.error INFO     Application startup complete.
+2020-09-18 07:59:55,741 uvicorn.error INFO     Shutting down
+2020-09-18 07:59:55,841 uvicorn.error INFO     Finished server process [90277]
+2020-09-18 07:59:56,265 uvicorn.error INFO     Started server process [90351]
+2020-09-18 07:59:56,265 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 07:59:56,266 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 07:59:56,266 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:00:08,746 uvicorn.error ERROR    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/deprecation.py", line 126, in __acall__
+    response = await sync_to_async(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/middleware/common.py", line 53, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/middleware/common.py", line 71, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/base.py", line 154, in is_valid_path
+    resolve(path, urlconf)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/base.py", line 25, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 545, in resolve
+    for pattern in self.url_patterns:
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 589, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/urls.py", line 21, in <module>
+    path("api/v1/", include("project.apiurls")),
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/apiurls.py", line 4, in <module>
+    urlpatterns = [path("", include("leaveapp.apiurls"))]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./leaveapp/apiurls.py", line 2, in <module>
+    from . import views
+  File "./leaveapp/views.py", line 88
+    return Response("Date format is wrong", status=400)
+                                                      ^
+IndentationError: unindent does not match any outer indentation level
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/deprecation.py", line 130, in __acall__
+    response = response or await self.get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 40, in inner
+    response = await sync_to_async(response_for_exception)(request, exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 332, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 103, in response_for_exception
+    response = handle_uncaught_exception(request, get_resolver(get_urlconf()), sys.exc_info())
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/urls.py", line 21, in <module>
+    path("api/v1/", include("project.apiurls")),
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/apiurls.py", line 4, in <module>
+    urlpatterns = [path("", include("leaveapp.apiurls"))]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./leaveapp/apiurls.py", line 2, in <module>
+    from . import views
+  File "./leaveapp/views.py", line 88
+    return Response("Date format is wrong", status=400)
+                                                      ^
+IndentationError: unindent does not match any outer indentation level
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/deprecation.py", line 130, in __acall__
+    response = response or await self.get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 40, in inner
+    response = await sync_to_async(response_for_exception)(request, exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 332, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 103, in response_for_exception
+    response = handle_uncaught_exception(request, get_resolver(get_urlconf()), sys.exc_info())
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/urls.py", line 21, in <module>
+    path("api/v1/", include("project.apiurls")),
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/apiurls.py", line 4, in <module>
+    urlpatterns = [path("", include("leaveapp.apiurls"))]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./leaveapp/apiurls.py", line 2, in <module>
+    from . import views
+  File "./leaveapp/views.py", line 88
+    return Response("Date format is wrong", status=400)
+                                                      ^
+IndentationError: unindent does not match any outer indentation level
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/asgi.py", line 161, in __call__
+    response = await self.get_response_async(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 148, in get_response_async
+    response = await self._middleware_chain(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 40, in inner
+    response = await sync_to_async(response_for_exception)(request, exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 332, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 103, in response_for_exception
+    response = handle_uncaught_exception(request, get_resolver(get_urlconf()), sys.exc_info())
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/urls.py", line 21, in <module>
+    path("api/v1/", include("project.apiurls")),
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./project/apiurls.py", line 4, in <module>
+    urlpatterns = [path("", include("leaveapp.apiurls"))]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./leaveapp/apiurls.py", line 2, in <module>
+    from . import views
+  File "./leaveapp/views.py", line 88
+    return Response("Date format is wrong", status=400)
+                                                      ^
+IndentationError: unindent does not match any outer indentation level
+2020-09-18 08:00:21,150 uvicorn.error INFO     Shutting down
+2020-09-18 08:00:21,251 uvicorn.error INFO     Finished server process [90351]
+2020-09-18 08:00:21,664 uvicorn.error INFO     Started server process [90457]
+2020-09-18 08:00:21,665 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:00:21,665 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:00:21,665 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:00:27,182 uvicorn.error INFO     Shutting down
+2020-09-18 08:00:27,283 uvicorn.error INFO     Finished server process [90457]
+2020-09-18 08:00:27,774 uvicorn.error INFO     Started server process [90491]
+2020-09-18 08:00:27,774 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:00:27,774 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:00:27,774 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:00:48,182 django.request WARNING  Not Found: /static/admin/css/base.css
+2020-09-18 08:00:48,183 django.request WARNING  Not Found: /static/admin/css/dashboard.css
+2020-09-18 08:00:48,183 django.request WARNING  Not Found: /static/admin/css/responsive.css
+2020-09-18 08:00:48,183 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2020-09-18 08:00:48,189 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2020-09-18 08:00:48,373 django.request WARNING  Not Found: /static/admin/css/base.css
+2020-09-18 08:00:48,373 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2020-09-18 08:00:48,374 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2020-09-18 08:00:48,374 django.request WARNING  Not Found: /static/admin/css/dashboard.css
+2020-09-18 08:00:48,374 django.request WARNING  Not Found: /static/admin/css/responsive.css
+2020-09-18 08:00:48,419 django.request WARNING  Not Found: /favicon.ico
+2020-09-18 08:00:57,168 uvicorn.error INFO     Shutting down
+2020-09-18 08:00:57,269 uvicorn.error INFO     Finished server process [90491]
+2020-09-18 08:04:22,741 uvicorn.error INFO     Started server process [91507]
+2020-09-18 08:04:22,742 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:04:22,742 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:04:22,742 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:04:25,587 django.request WARNING  Not Found: /static/admin/css/base.css
+2020-09-18 08:04:25,587 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2020-09-18 08:04:25,587 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2020-09-18 08:04:25,587 django.request WARNING  Not Found: /static/admin/css/responsive.css
+2020-09-18 08:04:25,588 django.request WARNING  Not Found: /static/admin/css/dashboard.css
+2020-09-18 08:04:27,318 django.request WARNING  Not Found: /static/admin/css/base.css
+2020-09-18 08:04:27,319 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2020-09-18 08:04:27,319 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2020-09-18 08:04:27,319 django.request WARNING  Not Found: /static/admin/css/dashboard.css
+2020-09-18 08:04:27,319 django.request WARNING  Not Found: /static/admin/css/responsive.css
+2020-09-18 08:04:33,026 django.request WARNING  Not Found: /static/admin/css/dashboard.css
+2020-09-18 08:04:53,477 uvicorn.error INFO     Shutting down
+2020-09-18 08:04:53,579 uvicorn.error INFO     Finished server process [91507]
+2020-09-18 08:04:54,109 uvicorn.error INFO     Started server process [91648]
+2020-09-18 08:04:54,109 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:04:54,109 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:04:54,109 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:04:56,721 uvicorn.error INFO     Shutting down
+2020-09-18 08:04:56,822 uvicorn.error INFO     Finished server process [91648]
+2020-09-18 08:04:59,955 uvicorn.error INFO     Started server process [91676]
+2020-09-18 08:04:59,955 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:04:59,955 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:04:59,955 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:05:01,260 uvicorn.error INFO     Shutting down
+2020-09-18 08:05:01,360 uvicorn.error INFO     Finished server process [91676]
+2020-09-18 08:05:13,080 uvicorn.error INFO     Started server process [91736]
+2020-09-18 08:05:13,081 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:05:13,081 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:05:13,081 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:05:17,477 django.request WARNING  Not Found: /static/admin/css/base.css
+2020-09-18 08:05:17,485 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2020-09-18 08:05:17,485 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2020-09-18 08:05:17,485 django.request WARNING  Not Found: /static/admin/css/responsive.css
+2020-09-18 08:05:17,485 django.request WARNING  Not Found: /static/admin/css/dashboard.css
+2020-09-18 08:05:24,543 uvicorn.error INFO     Shutting down
+2020-09-18 08:05:24,644 uvicorn.error INFO     Finished server process [91736]
+2020-09-18 08:05:40,118 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-18 08:05:43,211 django.server INFO     "GET /admin/ HTTP/1.1" 200 6384
+2020-09-18 08:05:43,304 django.request WARNING  Not Found: /static/admin/css/base.css
+2020-09-18 08:05:43,306 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2020-09-18 08:05:43,309 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2020-09-18 08:05:43,311 django.server WARNING  "GET /static/admin/css/base.css HTTP/1.1" 404 179
+2020-09-18 08:05:43,316 django.request WARNING  Not Found: /static/admin/css/dashboard.css
+2020-09-18 08:05:43,317 django.server WARNING  "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+2020-09-18 08:05:43,318 django.request WARNING  Not Found: /static/admin/css/responsive.css
+2020-09-18 08:05:43,320 django.server WARNING  "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+2020-09-18 08:05:43,321 django.server WARNING  "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2020-09-18 08:05:43,321 django.server WARNING  "GET /static/admin/css/dashboard.css HTTP/1.1" 404 179
+2020-09-18 08:05:44,924 django.server INFO     "GET /admin/ HTTP/1.1" 200 6384
+2020-09-18 08:05:45,035 django.request WARNING  Not Found: /static/admin/css/base.css
+2020-09-18 08:05:45,040 django.server WARNING  "GET /static/admin/css/base.css HTTP/1.1" 404 179
+2020-09-18 08:05:45,038 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2020-09-18 08:05:45,036 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2020-09-18 08:05:45,041 django.server WARNING  "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+2020-09-18 08:05:45,042 django.server WARNING  "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+2020-09-18 08:05:45,043 django.request WARNING  Not Found: /static/admin/css/responsive.css
+2020-09-18 08:05:45,043 django.server WARNING  "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2020-09-18 08:05:45,040 django.request WARNING  Not Found: /static/admin/css/dashboard.css
+2020-09-18 08:05:45,043 django.server WARNING  "GET /static/admin/css/dashboard.css HTTP/1.1" 404 179
+2020-09-18 08:05:46,604 django.server INFO     "GET /admin/ HTTP/1.1" 200 6384
+2020-09-18 08:05:46,688 django.request WARNING  Not Found: /static/admin/css/base.css
+2020-09-18 08:05:46,692 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2020-09-18 08:05:46,694 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2020-09-18 08:05:46,694 django.server WARNING  "GET /static/admin/css/base.css HTTP/1.1" 404 179
+2020-09-18 08:05:46,695 django.server WARNING  "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+2020-09-18 08:05:46,695 django.server WARNING  "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+2020-09-18 08:05:46,698 django.request WARNING  Not Found: /static/admin/css/dashboard.css
+2020-09-18 08:05:46,704 django.request WARNING  Not Found: /static/admin/css/responsive.css
+2020-09-18 08:05:46,707 django.server WARNING  "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2020-09-18 08:05:46,707 django.server WARNING  "GET /static/admin/css/dashboard.css HTTP/1.1" 404 179
+2020-09-18 08:05:46,802 django.request WARNING  Not Found: /favicon.ico
+2020-09-18 08:05:46,802 django.server WARNING  "GET /favicon.ico HTTP/1.1" 404 179
+2020-09-18 08:05:47,425 django.server INFO     "GET /admin/ HTTP/1.1" 200 6384
+2020-09-18 08:05:47,515 django.request WARNING  Not Found: /static/admin/css/base.css
+2020-09-18 08:05:47,515 django.server WARNING  "GET /static/admin/css/base.css HTTP/1.1" 404 179
+2020-09-18 08:05:47,518 django.request WARNING  Not Found: /static/admin/css/responsive.css
+2020-09-18 08:05:47,519 django.request WARNING  Not Found: /static/admin/css/dashboard.css
+2020-09-18 08:05:47,521 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2020-09-18 08:05:47,523 django.server WARNING  "GET /static/admin/css/dashboard.css HTTP/1.1" 404 179
+2020-09-18 08:05:47,525 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2020-09-18 08:05:47,529 django.server WARNING  "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+2020-09-18 08:05:47,528 django.server WARNING  "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+2020-09-18 08:05:47,526 django.server WARNING  "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2020-09-18 08:05:47,639 django.request WARNING  Not Found: /favicon.ico
+2020-09-18 08:05:47,640 django.server WARNING  "GET /favicon.ico HTTP/1.1" 404 179
+2020-09-18 08:06:28,648 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-18 08:06:32,556 django.server INFO     "GET /admin/ HTTP/1.1" 200 6384
+2020-09-18 08:06:32,653 django.request WARNING  Not Found: /static/admin/css/base.css
+2020-09-18 08:06:32,654 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2020-09-18 08:06:32,656 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2020-09-18 08:06:32,659 django.server WARNING  "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+2020-09-18 08:06:32,658 django.server WARNING  "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+2020-09-18 08:06:32,659 django.server WARNING  "GET /static/admin/css/base.css HTTP/1.1" 404 179
+2020-09-18 08:06:32,662 django.request WARNING  Not Found: /static/admin/css/dashboard.css
+2020-09-18 08:06:32,663 django.server WARNING  "GET /static/admin/css/dashboard.css HTTP/1.1" 404 179
+2020-09-18 08:06:32,664 django.request WARNING  Not Found: /static/admin/css/responsive.css
+2020-09-18 08:06:32,665 django.server WARNING  "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+2020-09-18 08:11:29,182 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-18 08:11:35,113 django.server INFO     "GET /admin/ HTTP/1.1" 200 6449
+2020-09-18 08:11:35,264 django.server INFO     "GET /static/admin/css/base.efb520c4bb7c.css HTTP/1.1" 200 3938
+2020-09-18 08:11:35,268 django.server INFO     "GET /static/admin/css/dashboard.be83f13e4369.css HTTP/1.1" 200 245
+2020-09-18 08:11:35,269 django.server INFO     "GET /static/admin/css/responsive.80de588896ee.css HTTP/1.1" 200 3348
+2020-09-18 08:11:35,271 django.server INFO     "GET /static/admin/js/nav_sidebar.7605597ddf52.js HTTP/1.1" 200 412
+2020-09-18 08:11:35,275 django.server INFO     "GET /static/admin/css/nav_sidebar.d77625ae2948.css HTTP/1.1" 200 616
+2020-09-18 08:11:35,360 django.server INFO     "GET /static/admin/css/fonts.168bab448fee.css HTTP/1.1" 200 189
+2020-09-18 08:11:35,390 django.server INFO     "GET /static/admin/img/icon-addlink.d519b3bab011.svg HTTP/1.1" 200 206
+2020-09-18 08:11:35,393 django.server INFO     "GET /static/admin/img/icon-deletelink.564ef9dc3854.svg HTTP/1.1" 200 221
+2020-09-18 08:11:35,394 django.server INFO     "GET /static/admin/img/icon-changelink.18d2fd706348.svg HTTP/1.1" 200 269
+2020-09-18 08:11:35,398 django.server INFO     "GET /static/admin/fonts/Roboto-Regular-webfont.35b07eb2f871.woff HTTP/1.1" 200 85876
+2020-09-18 08:11:35,400 django.server INFO     "GET /static/admin/fonts/Roboto-Light-webfont.c73eb1ceba33.woff HTTP/1.1" 200 85692
+2020-09-18 08:11:35,406 django.server INFO     "GET /static/admin/fonts/Roboto-Bold-webfont.50d75e48e0a3.woff HTTP/1.1" 200 86184
+2020-09-18 08:11:45,548 uvicorn.error INFO     Started server process [93271]
+2020-09-18 08:11:45,548 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:11:45,548 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:11:45,548 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:13:15,623 uvicorn.error INFO     Shutting down
+2020-09-18 08:13:15,724 uvicorn.error INFO     Finished server process [93271]
+2020-09-18 08:13:16,241 uvicorn.error INFO     Started server process [93614]
+2020-09-18 08:13:16,242 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:13:16,242 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:13:16,242 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:30:23,860 uvicorn.error INFO     Shutting down
+2020-09-18 08:30:23,961 uvicorn.error INFO     Finished server process [93614]
+2020-09-18 08:30:24,465 uvicorn.error INFO     Started server process [94283]
+2020-09-18 08:30:24,465 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:30:24,466 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:30:24,466 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:30:44,629 uvicorn.error INFO     Shutting down
+2020-09-18 08:30:44,730 uvicorn.error INFO     Finished server process [94283]
+2020-09-18 08:31:05,672 uvicorn.error INFO     Started server process [94501]
+2020-09-18 08:31:05,672 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:31:05,672 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:31:05,672 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:31:39,279 uvicorn.error INFO     Shutting down
+2020-09-18 08:31:39,379 uvicorn.error INFO     Finished server process [94501]
+2020-09-18 08:31:39,891 uvicorn.error INFO     Started server process [94711]
+2020-09-18 08:31:39,891 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:31:39,892 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:31:39,892 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:32:08,449 leaveapp.views INFO     With in a 0.8793835639953613 second, model is open.
+2020-09-18 08:32:08,450 leaveapp.views INFO     slack model open successfully.
+2020-09-18 08:39:16,730 uvicorn.error INFO     Shutting down
+2020-09-18 08:39:16,830 uvicorn.error INFO     Finished server process [94711]
+2020-09-18 08:39:17,612 uvicorn.error INFO     Started server process [97237]
+2020-09-18 08:39:17,612 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:39:17,612 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:39:17,613 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:41:37,799 django.request WARNING  Not Found: /favicon.ico
+2020-09-18 08:43:59,776 uvicorn.error INFO     Shutting down
+2020-09-18 08:43:59,877 uvicorn.error INFO     Finished server process [97237]
+2020-09-18 08:44:00,485 uvicorn.error INFO     Started server process [98938]
+2020-09-18 08:44:00,485 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:44:00,486 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:44:00,486 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:44:06,205 uvicorn.error INFO     Shutting down
+2020-09-18 08:44:06,305 uvicorn.error INFO     Finished server process [98938]
+2020-09-18 08:44:06,769 uvicorn.error INFO     Started server process [98982]
+2020-09-18 08:44:06,769 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:44:06,769 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:44:06,770 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:44:07,974 uvicorn.error INFO     Shutting down
+2020-09-18 08:44:08,075 uvicorn.error INFO     Finished server process [98982]
+2020-09-18 08:44:08,638 uvicorn.error INFO     Started server process [98998]
+2020-09-18 08:44:08,638 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:44:08,639 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:44:08,639 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:44:14,857 uvicorn.error INFO     Shutting down
+2020-09-18 08:44:14,958 uvicorn.error INFO     Finished server process [98998]
+2020-09-18 08:44:15,487 uvicorn.error INFO     Started server process [99052]
+2020-09-18 08:44:15,487 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:44:15,487 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:44:15,487 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:44:23,508 uvicorn.error INFO     Shutting down
+2020-09-18 08:44:23,608 uvicorn.error INFO     Finished server process [99052]
+2020-09-18 08:44:24,102 uvicorn.error INFO     Started server process [99108]
+2020-09-18 08:44:24,102 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:44:24,103 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:44:24,103 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:44:28,015 uvicorn.error INFO     Shutting down
+2020-09-18 08:44:28,116 uvicorn.error INFO     Finished server process [99108]
+2020-09-18 08:44:28,610 uvicorn.error INFO     Started server process [99153]
+2020-09-18 08:44:28,610 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:44:28,610 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:44:28,610 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:44:32,222 uvicorn.error INFO     Shutting down
+2020-09-18 08:44:32,322 uvicorn.error INFO     Finished server process [99153]
+2020-09-18 08:44:32,793 uvicorn.error INFO     Started server process [99187]
+2020-09-18 08:44:32,794 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:44:32,794 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:44:32,794 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:44:41,621 uvicorn.error INFO     Shutting down
+2020-09-18 08:44:41,721 uvicorn.error INFO     Finished server process [99187]
+2020-09-18 08:44:42,203 uvicorn.error INFO     Started server process [99251]
+2020-09-18 08:44:42,203 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:44:42,203 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:44:42,204 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:44:45,914 uvicorn.error INFO     Shutting down
+2020-09-18 08:44:46,015 uvicorn.error INFO     Finished server process [99251]
+2020-09-18 08:44:46,516 uvicorn.error INFO     Started server process [99292]
+2020-09-18 08:44:46,516 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:44:46,516 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:44:46,517 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:44:57,846 uvicorn.error INFO     Shutting down
+2020-09-18 08:44:57,947 uvicorn.error INFO     Finished server process [99292]
+2020-09-18 08:44:58,489 uvicorn.error INFO     Started server process [99361]
+2020-09-18 08:44:58,489 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:44:58,490 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:44:58,490 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:45:07,216 uvicorn.error INFO     Shutting down
+2020-09-18 08:45:07,316 uvicorn.error INFO     Finished server process [99361]
+2020-09-18 08:45:07,800 uvicorn.error INFO     Started server process [99424]
+2020-09-18 08:45:07,800 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:45:07,800 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:45:07,801 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:45:14,522 uvicorn.error INFO     Shutting down
+2020-09-18 08:45:14,623 uvicorn.error INFO     Finished server process [99424]
+2020-09-18 08:45:15,165 uvicorn.error INFO     Started server process [99470]
+2020-09-18 08:45:15,165 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:45:15,165 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:45:15,166 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:45:23,490 uvicorn.error INFO     Shutting down
+2020-09-18 08:45:23,591 uvicorn.error INFO     Finished server process [99470]
+2020-09-18 08:45:24,137 uvicorn.error INFO     Started server process [99528]
+2020-09-18 08:45:24,137 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:45:24,137 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:45:24,138 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:45:33,266 uvicorn.error INFO     Shutting down
+2020-09-18 08:45:33,366 uvicorn.error INFO     Finished server process [99528]
+2020-09-18 08:45:33,837 uvicorn.error INFO     Started server process [99598]
+2020-09-18 08:45:33,838 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:45:33,838 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:45:33,838 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:45:37,248 uvicorn.error INFO     Shutting down
+2020-09-18 08:45:37,349 uvicorn.error INFO     Finished server process [99598]
+2020-09-18 08:45:37,821 uvicorn.error INFO     Started server process [99632]
+2020-09-18 08:45:37,821 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:45:37,822 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:45:37,822 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:46:21,764 uvicorn.error INFO     Shutting down
+2020-09-18 08:46:21,865 uvicorn.error INFO     Finished server process [99632]
+2020-09-18 08:46:25,106 uvicorn.error INFO     Started server process [99858]
+2020-09-18 08:46:25,106 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:46:25,106 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:46:25,107 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:48:01,008 uvicorn.error INFO     Shutting down
+2020-09-18 08:48:01,109 uvicorn.error INFO     Finished server process [99858]
+2020-09-18 08:48:01,657 uvicorn.error INFO     Started server process [100363]
+2020-09-18 08:48:01,658 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:48:01,658 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:48:01,659 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:48:31,450 uvicorn.error INFO     Shutting down
+2020-09-18 08:48:31,551 uvicorn.error INFO     Finished server process [100363]
+2020-09-18 08:48:32,033 uvicorn.error INFO     Started server process [100524]
+2020-09-18 08:48:32,033 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:48:32,034 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:48:32,034 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:50:08,029 leaveapp.views INFO     With in a 0.8686716556549072 second, model is open.
+2020-09-18 08:50:08,029 leaveapp.views INFO     slack model open successfully.
+2020-09-18 08:50:15,623 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 79, in post
+    await slack_client.chat_postMessage(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/slack/web/base_client.py", line 195, in _send
+    return SlackResponse(**{**data, **res}).validate()
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/slack/web/slack_response.py", line 194, in validate
+    raise e.SlackApiError(message=msg, response=self)
+slack.errors.SlackApiError: The request to the Slack API failed.
+The server responded with: {'ok': False, 'error': 'not_in_channel'}
+2020-09-18 08:52:14,752 leaveapp.views INFO     With in a 0.8133924007415771 second, model is open.
+2020-09-18 08:52:14,753 leaveapp.views INFO     slack model open successfully.
+2020-09-18 08:52:28,612 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 507, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 419, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2020-09-18 08:52:56,170 uvicorn.error INFO     Shutting down
+2020-09-18 08:52:56,271 uvicorn.error INFO     Finished server process [100524]
+2020-09-18 08:52:56,777 uvicorn.error INFO     Started server process [101976]
+2020-09-18 08:52:56,778 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:52:56,778 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:52:56,778 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:58:34,807 uvicorn.error INFO     Shutting down
+2020-09-18 08:58:34,907 uvicorn.error INFO     Finished server process [101976]
+2020-09-18 08:58:35,456 uvicorn.error INFO     Started server process [103712]
+2020-09-18 08:58:35,456 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 08:58:35,456 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 08:58:35,456 uvicorn.error INFO     Application startup complete.
+2020-09-18 08:58:49,420 leaveapp.views INFO     With in a 0.8172061443328857 second, model is open.
+2020-09-18 08:58:49,421 leaveapp.views INFO     slack model open successfully.
+2020-09-18 08:59:07,795 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-18 08:59:30,289 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 81, in post
+    Leave.objects.create(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 1249, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    with self.connection.cursor() as cursor:
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/asyncio.py", line 24, in inner
+    raise SynchronousOnlyOperation(message)
+django.core.exceptions.SynchronousOnlyOperation: You cannot call this from an async context - use a thread or sync_to_async.
+2020-09-18 09:00:00,644 uvicorn.error INFO     Shutting down
+2020-09-18 09:00:00,744 uvicorn.error INFO     Finished server process [103712]
+2020-09-18 09:00:01,267 uvicorn.error INFO     Started server process [104192]
+2020-09-18 09:00:01,268 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:00:01,268 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:00:01,268 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:00:06,336 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 81, in post
+    Leave.objects.create(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 1249, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    with self.connection.cursor() as cursor:
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/asyncio.py", line 24, in inner
+    raise SynchronousOnlyOperation(message)
+django.core.exceptions.SynchronousOnlyOperation: You cannot call this from an async context - use a thread or sync_to_async.
+2020-09-18 09:03:46,654 uvicorn.error INFO     Shutting down
+2020-09-18 09:03:46,754 uvicorn.error INFO     Finished server process [104192]
+2020-09-18 09:03:47,352 uvicorn.error INFO     Started server process [105335]
+2020-09-18 09:03:47,353 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:03:47,353 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:03:47,353 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:03:50,897 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 81, in post
+    Leave.objects.create(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 1249, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    with self.connection.cursor() as cursor:
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/asyncio.py", line 24, in inner
+    raise SynchronousOnlyOperation(message)
+django.core.exceptions.SynchronousOnlyOperation: You cannot call this from an async context - use a thread or sync_to_async.
+2020-09-18 09:04:23,469 uvicorn.error INFO     Shutting down
+2020-09-18 09:04:23,569 uvicorn.error INFO     Finished server process [105335]
+2020-09-18 09:04:24,089 uvicorn.error INFO     Started server process [105555]
+2020-09-18 09:04:24,089 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:04:24,089 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:04:24,090 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:04:27,150 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 81, in post
+    sync_to_async(Leave.objects.create(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 1249, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    with self.connection.cursor() as cursor:
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/asyncio.py", line 24, in inner
+    raise SynchronousOnlyOperation(message)
+django.core.exceptions.SynchronousOnlyOperation: You cannot call this from an async context - use a thread or sync_to_async.
+2020-09-18 09:04:42,259 uvicorn.error INFO     Shutting down
+2020-09-18 09:04:42,359 uvicorn.error INFO     Finished server process [105555]
+2020-09-18 09:04:42,883 uvicorn.error INFO     Started server process [105679]
+2020-09-18 09:04:42,884 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:04:42,884 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:04:42,884 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:04:46,816 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 81, in post
+    await sync_to_async(Leave.objects.create(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 1249, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    with self.connection.cursor() as cursor:
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/asyncio.py", line 24, in inner
+    raise SynchronousOnlyOperation(message)
+django.core.exceptions.SynchronousOnlyOperation: You cannot call this from an async context - use a thread or sync_to_async.
+2020-09-18 09:12:33,568 uvicorn.error INFO     Shutting down
+2020-09-18 09:12:33,669 uvicorn.error INFO     Finished server process [105679]
+2020-09-18 09:12:34,235 uvicorn.error INFO     Started server process [108019]
+2020-09-18 09:12:34,235 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:12:34,236 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:12:34,236 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:12:43,361 uvicorn.error INFO     Shutting down
+2020-09-18 09:12:43,461 uvicorn.error INFO     Finished server process [108019]
+2020-09-18 09:12:43,976 uvicorn.error INFO     Started server process [108084]
+2020-09-18 09:12:43,977 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:12:43,977 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:12:43,977 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:12:47,589 uvicorn.error INFO     Shutting down
+2020-09-18 09:12:47,689 uvicorn.error INFO     Finished server process [108084]
+2020-09-18 09:12:48,186 uvicorn.error INFO     Started server process [108124]
+2020-09-18 09:12:48,186 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:12:48,186 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:12:48,186 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:12:52,129 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 81, in post
+    leave_obj = sync_to_async(Leave.objects.create(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 1249, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    with self.connection.cursor() as cursor:
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/asyncio.py", line 24, in inner
+    raise SynchronousOnlyOperation(message)
+django.core.exceptions.SynchronousOnlyOperation: You cannot call this from an async context - use a thread or sync_to_async.
+2020-09-18 09:16:32,215 uvicorn.error INFO     Shutting down
+2020-09-18 09:16:32,316 uvicorn.error INFO     Finished server process [108124]
+2020-09-18 09:16:32,857 uvicorn.error INFO     Started server process [109324]
+2020-09-18 09:16:32,858 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:16:32,858 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:16:32,858 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:17:03,650 uvicorn.error INFO     Shutting down
+2020-09-18 09:17:03,750 uvicorn.error INFO     Finished server process [109324]
+2020-09-18 09:17:04,268 uvicorn.error INFO     Started server process [109497]
+2020-09-18 09:17:04,268 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:17:04,269 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:17:04,269 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:17:06,474 uvicorn.error INFO     Shutting down
+2020-09-18 09:17:06,575 uvicorn.error INFO     Finished server process [109497]
+2020-09-18 09:17:07,091 uvicorn.error INFO     Started server process [109526]
+2020-09-18 09:17:07,091 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:17:07,091 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:17:07,092 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:17:23,138 uvicorn.error INFO     Shutting down
+2020-09-18 09:17:23,239 uvicorn.error INFO     Finished server process [109526]
+2020-09-18 09:17:23,722 uvicorn.error INFO     Started server process [109622]
+2020-09-18 09:17:23,722 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:17:23,722 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:17:23,722 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:17:41,875 uvicorn.error INFO     Shutting down
+2020-09-18 09:17:41,976 uvicorn.error INFO     Finished server process [109622]
+2020-09-18 09:17:42,474 uvicorn.error INFO     Started server process [109721]
+2020-09-18 09:17:42,475 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:17:42,475 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:17:42,475 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:17:43,479 uvicorn.error INFO     Shutting down
+2020-09-18 09:17:43,579 uvicorn.error INFO     Finished server process [109721]
+2020-09-18 09:17:44,106 uvicorn.error INFO     Started server process [109736]
+2020-09-18 09:17:44,107 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:17:44,107 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:17:44,107 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:17:45,812 uvicorn.error INFO     Shutting down
+2020-09-18 09:17:45,913 uvicorn.error INFO     Finished server process [109736]
+2020-09-18 09:17:46,417 uvicorn.error INFO     Started server process [109763]
+2020-09-18 09:17:46,418 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:17:46,418 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:17:46,418 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:17:49,828 uvicorn.error INFO     Shutting down
+2020-09-18 09:17:49,928 uvicorn.error INFO     Finished server process [109763]
+2020-09-18 09:17:50,402 uvicorn.error INFO     Started server process [109794]
+2020-09-18 09:17:50,402 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:17:50,403 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:17:50,403 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:18:26,714 uvicorn.error INFO     Shutting down
+2020-09-18 09:18:26,815 uvicorn.error INFO     Finished server process [109794]
+2020-09-18 09:18:27,391 uvicorn.error INFO     Started server process [110004]
+2020-09-18 09:18:27,392 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:18:27,392 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:18:27,392 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:19:16,038 uvicorn.error INFO     Shutting down
+2020-09-18 09:19:16,138 uvicorn.error INFO     Finished server process [110004]
+2020-09-18 09:19:16,625 uvicorn.error INFO     Started server process [110257]
+2020-09-18 09:19:16,625 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:19:16,625 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:19:16,625 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:19:23,946 uvicorn.error INFO     Shutting down
+2020-09-18 09:19:24,047 uvicorn.error INFO     Finished server process [110257]
+2020-09-18 09:19:24,575 uvicorn.error INFO     Started server process [110311]
+2020-09-18 09:19:24,576 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:19:24,576 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:19:24,576 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:19:36,308 uvicorn.error INFO     Shutting down
+2020-09-18 09:19:36,409 uvicorn.error INFO     Finished server process [110311]
+2020-09-18 09:19:36,882 uvicorn.error INFO     Started server process [110384]
+2020-09-18 09:19:36,882 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:19:36,882 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:19:36,882 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:20:28,445 uvicorn.error INFO     Shutting down
+2020-09-18 09:20:28,545 uvicorn.error INFO     Finished server process [110384]
+2020-09-18 09:20:29,102 uvicorn.error INFO     Started server process [110655]
+2020-09-18 09:20:29,102 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:20:29,103 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:20:29,103 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:20:30,307 uvicorn.error INFO     Shutting down
+2020-09-18 09:20:30,408 uvicorn.error INFO     Finished server process [110655]
+2020-09-18 09:20:30,923 uvicorn.error INFO     Started server process [110670]
+2020-09-18 09:20:30,923 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:20:30,923 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:20:30,923 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:20:53,492 uvicorn.error INFO     Shutting down
+2020-09-18 09:20:53,592 uvicorn.error INFO     Finished server process [110670]
+2020-09-18 09:20:54,099 uvicorn.error INFO     Started server process [110806]
+2020-09-18 09:20:54,100 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:20:54,100 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:20:54,100 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:21:33,524 uvicorn.error INFO     Shutting down
+2020-09-18 09:21:33,625 uvicorn.error INFO     Finished server process [110806]
+2020-09-18 09:21:34,096 uvicorn.error INFO     Started server process [111009]
+2020-09-18 09:21:34,096 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:21:34,097 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:21:34,097 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:21:43,923 uvicorn.error INFO     Shutting down
+2020-09-18 09:21:44,024 uvicorn.error INFO     Finished server process [111009]
+2020-09-18 09:21:44,560 uvicorn.error INFO     Started server process [111071]
+2020-09-18 09:21:44,561 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:21:44,561 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:21:44,561 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:21:56,392 uvicorn.error INFO     Shutting down
+2020-09-18 09:21:56,494 uvicorn.error INFO     Finished server process [111071]
+2020-09-18 09:21:57,086 uvicorn.error INFO     Started server process [111147]
+2020-09-18 09:21:57,087 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:21:57,087 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:21:57,087 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:21:58,994 uvicorn.error INFO     Shutting down
+2020-09-18 09:21:59,094 uvicorn.error INFO     Finished server process [111147]
+2020-09-18 09:21:59,564 uvicorn.error INFO     Started server process [111180]
+2020-09-18 09:21:59,564 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:21:59,565 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:21:59,565 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:22:37,880 uvicorn.error INFO     Shutting down
+2020-09-18 09:22:37,981 uvicorn.error INFO     Finished server process [111180]
+2020-09-18 09:22:38,604 uvicorn.error INFO     Started server process [111378]
+2020-09-18 09:22:38,604 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:22:38,604 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:22:38,605 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:23:24,934 uvicorn.error INFO     Shutting down
+2020-09-18 09:23:25,034 uvicorn.error INFO     Finished server process [111378]
+2020-09-18 09:23:25,513 uvicorn.error INFO     Started server process [111718]
+2020-09-18 09:23:25,513 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:23:25,513 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:23:25,514 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:23:39,254 uvicorn.error INFO     Shutting down
+2020-09-18 09:23:39,355 uvicorn.error INFO     Finished server process [111718]
+2020-09-18 09:23:39,897 uvicorn.error INFO     Started server process [111807]
+2020-09-18 09:23:39,897 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:23:39,898 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:23:39,898 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:23:43,409 uvicorn.error INFO     Shutting down
+2020-09-18 09:23:43,509 uvicorn.error INFO     Finished server process [111807]
+2020-09-18 09:23:44,017 uvicorn.error INFO     Started server process [111841]
+2020-09-18 09:23:44,017 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:23:44,018 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:23:44,018 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:23:52,444 uvicorn.error INFO     Shutting down
+2020-09-18 09:23:52,545 uvicorn.error INFO     Finished server process [111841]
+2020-09-18 09:23:53,129 uvicorn.error INFO     Started server process [111902]
+2020-09-18 09:23:53,129 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:23:53,129 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:23:53,130 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:24:00,140 leaveapp.views INFO     With in a 0.8404388427734375 second, model is open.
+2020-09-18 09:24:00,140 leaveapp.views INFO     slack model open successfully.
+2020-09-18 09:24:11,717 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 94, in post
+    create_leave(payload_obj),
+  File "./leaveapp/views.py", line 76, in create_leave
+    leave_obj = Leave.objects.create(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/query.py", line 1249, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    with self.connection.cursor() as cursor:
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/asyncio.py", line 24, in inner
+    raise SynchronousOnlyOperation(message)
+django.core.exceptions.SynchronousOnlyOperation: You cannot call this from an async context - use a thread or sync_to_async.
+2020-09-18 09:29:29,935 uvicorn.error INFO     Shutting down
+2020-09-18 09:29:30,036 uvicorn.error INFO     Finished server process [111902]
+2020-09-18 09:29:30,570 uvicorn.error INFO     Started server process [113642]
+2020-09-18 09:29:30,571 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:29:30,571 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:29:30,571 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:29:32,578 uvicorn.error INFO     Shutting down
+2020-09-18 09:29:32,679 uvicorn.error INFO     Finished server process [113642]
+2020-09-18 09:29:33,174 uvicorn.error INFO     Started server process [113667]
+2020-09-18 09:29:33,174 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:29:33,175 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:29:33,175 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:30:03,868 uvicorn.error INFO     Shutting down
+2020-09-18 09:30:03,969 uvicorn.error INFO     Finished server process [113667]
+2020-09-18 09:30:04,498 uvicorn.error INFO     Started server process [113844]
+2020-09-18 09:30:04,498 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:30:04,499 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:30:04,499 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:30:33,309 leaveapp.views INFO     With in a 0.7467920780181885 second, model is open.
+2020-09-18 09:30:33,309 leaveapp.views INFO     slack model open successfully.
+2020-09-18 09:30:50,005 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-18 09:41:59,486 uvicorn.error INFO     Shutting down
+2020-09-18 09:41:59,587 uvicorn.error INFO     Finished server process [113844]
+2020-09-18 09:42:10,173 uvicorn.error INFO     Started server process [114797]
+2020-09-18 09:42:10,173 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:42:10,174 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:42:10,174 uvicorn.error INFO     Application startup complete.
+2020-09-18 09:42:18,556 leaveapp.views INFO     With in a 0.863004207611084 second, model is open.
+2020-09-18 09:42:18,556 leaveapp.views INFO     slack model open successfully.
+2020-09-18 09:42:38,777 uvicorn.error INFO     Shutting down
+2020-09-18 09:42:38,878 uvicorn.error INFO     Finished server process [114797]
