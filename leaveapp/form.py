@@ -31,8 +31,8 @@ async def leaveRegisterForm(user_id):
                 "label": "Pick a date for leave.",
                 "type": "text",
                 "name": "date",
-                "placeholder": "Enter a date",
-                "hint": "Date format YYYY-MM-DD",
+                "placeholder": "2020-02-05",
+                "hint": "Date format YYYY-MM-DD, eg: 2020-02-05",
             },
         ],
     }

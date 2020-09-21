@@ -6057,3 +6057,1878 @@ django.core.exceptions.SynchronousOnlyOperation: You cannot call this from an as
 2020-09-18 09:42:18,556 leaveapp.views INFO     slack model open successfully.
 2020-09-18 09:42:38,777 uvicorn.error INFO     Shutting down
 2020-09-18 09:42:38,878 uvicorn.error INFO     Finished server process [114797]
+2020-09-18 09:45:56,004 uvicorn.error INFO     Started server process [115711]
+2020-09-18 09:45:56,004 uvicorn.error INFO     Waiting for application startup.
+2020-09-18 09:45:56,004 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-18 09:45:56,004 uvicorn.error INFO     Application startup complete.
+2020-09-20 08:56:10,982 uvicorn.error INFO     Started server process [1885]
+2020-09-20 08:56:10,983 uvicorn.error INFO     Waiting for application startup.
+2020-09-20 08:56:10,984 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-20 08:56:10,984 uvicorn.error INFO     Application startup complete.
+2020-09-20 08:56:18,610 uvicorn.error INFO     Shutting down
+2020-09-20 08:56:18,711 uvicorn.error INFO     Finished server process [1885]
+2020-09-20 08:56:59,758 uvicorn.error INFO     Started server process [1928]
+2020-09-20 08:56:59,758 uvicorn.error INFO     Waiting for application startup.
+2020-09-20 08:56:59,759 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-20 08:56:59,759 uvicorn.error INFO     Application startup complete.
+2020-09-20 08:59:53,764 leaveapp.views INFO     With in a 0.8743815422058105 second, model is open.
+2020-09-20 08:59:53,764 leaveapp.views INFO     slack model open successfully.
+2020-09-21 01:08:34,041 uvicorn.error INFO     Started server process [2347]
+2020-09-21 01:08:34,042 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:08:34,042 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:08:34,042 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:13:14,114 leaveapp.views INFO     With in a 0.8660104274749756 second, model is open.
+2020-09-21 01:13:14,114 leaveapp.views INFO     slack model open successfully.
+2020-09-21 01:28:16,814 uvicorn.error INFO     Shutting down
+2020-09-21 01:28:16,914 uvicorn.error INFO     Finished server process [2347]
+2020-09-21 01:28:17,481 uvicorn.error INFO     Started server process [3271]
+2020-09-21 01:28:17,481 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:28:17,482 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:28:17,482 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:28:52,089 uvicorn.error INFO     Shutting down
+2020-09-21 01:28:52,190 uvicorn.error INFO     Finished server process [3271]
+2020-09-21 01:28:52,682 uvicorn.error INFO     Started server process [3297]
+2020-09-21 01:28:52,683 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:28:52,683 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:28:52,683 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:29:18,864 uvicorn.error INFO     Shutting down
+2020-09-21 01:29:18,965 uvicorn.error INFO     Finished server process [3297]
+2020-09-21 01:29:19,491 uvicorn.error INFO     Started server process [3318]
+2020-09-21 01:29:19,491 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:29:19,492 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:29:19,492 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:29:26,615 uvicorn.error INFO     Shutting down
+2020-09-21 01:29:26,716 uvicorn.error INFO     Finished server process [3318]
+2020-09-21 01:29:27,182 uvicorn.error INFO     Started server process [3336]
+2020-09-21 01:29:27,183 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:29:27,183 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:29:27,183 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:29:33,703 uvicorn.error INFO     Shutting down
+2020-09-21 01:29:33,803 uvicorn.error INFO     Finished server process [3336]
+2020-09-21 01:29:34,303 uvicorn.error INFO     Started server process [3355]
+2020-09-21 01:29:34,303 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:29:34,303 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:29:34,303 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:29:37,214 uvicorn.error INFO     Shutting down
+2020-09-21 01:29:37,316 uvicorn.error INFO     Finished server process [3355]
+2020-09-21 01:29:37,875 uvicorn.error INFO     Started server process [3370]
+2020-09-21 01:29:37,875 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:29:37,876 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:29:37,876 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:29:48,887 leaveapp.views INFO     With in a 0.834932804107666 second, model is open.
+2020-09-21 01:29:48,888 leaveapp.views INFO     slack model open successfully.
+2020-09-21 01:31:36,255 uvicorn.error INFO     Shutting down
+2020-09-21 01:31:36,356 uvicorn.error INFO     Finished server process [3370]
+2020-09-21 01:31:36,872 uvicorn.error INFO     Started server process [3566]
+2020-09-21 01:31:36,872 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:31:36,872 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:31:36,872 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:31:43,894 uvicorn.error INFO     Shutting down
+2020-09-21 01:31:43,995 uvicorn.error INFO     Finished server process [3566]
+2020-09-21 01:31:44,462 uvicorn.error INFO     Started server process [3618]
+2020-09-21 01:31:44,462 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:31:44,463 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:31:44,463 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:32:00,007 uvicorn.error INFO     Shutting down
+2020-09-21 01:32:00,107 uvicorn.error INFO     Finished server process [3618]
+2020-09-21 01:32:00,595 uvicorn.error INFO     Started server process [3731]
+2020-09-21 01:32:00,595 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:32:00,595 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:32:00,595 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:32:28,783 uvicorn.error INFO     Shutting down
+2020-09-21 01:32:28,884 uvicorn.error INFO     Finished server process [3731]
+2020-09-21 01:32:29,370 uvicorn.error INFO     Started server process [3886]
+2020-09-21 01:32:29,371 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:32:29,371 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:32:29,371 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:33:06,386 uvicorn.error INFO     Shutting down
+2020-09-21 01:33:06,487 uvicorn.error INFO     Finished server process [3886]
+2020-09-21 01:33:06,955 uvicorn.error INFO     Started server process [4085]
+2020-09-21 01:33:06,955 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:33:06,956 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:33:06,956 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:33:13,576 uvicorn.error INFO     Shutting down
+2020-09-21 01:33:13,677 uvicorn.error INFO     Finished server process [4085]
+2020-09-21 01:33:14,140 uvicorn.error INFO     Started server process [4134]
+2020-09-21 01:33:14,141 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:33:14,141 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:33:14,141 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:33:32,294 uvicorn.error INFO     Shutting down
+2020-09-21 01:33:32,395 uvicorn.error INFO     Finished server process [4134]
+2020-09-21 01:33:32,926 uvicorn.error INFO     Started server process [4249]
+2020-09-21 01:33:32,926 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:33:32,926 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:33:32,926 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:33:47,868 uvicorn.error INFO     Shutting down
+2020-09-21 01:33:47,969 uvicorn.error INFO     Finished server process [4249]
+2020-09-21 01:33:48,491 uvicorn.error INFO     Started server process [4333]
+2020-09-21 01:33:48,491 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:33:48,491 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:33:48,492 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:33:54,409 uvicorn.error INFO     Shutting down
+2020-09-21 01:33:54,510 uvicorn.error INFO     Finished server process [4333]
+2020-09-21 01:33:54,999 uvicorn.error INFO     Started server process [4381]
+2020-09-21 01:33:55,000 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:33:55,000 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:33:55,000 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:34:42,446 uvicorn.error INFO     Shutting down
+2020-09-21 01:34:42,547 uvicorn.error INFO     Finished server process [4381]
+2020-09-21 01:34:43,096 uvicorn.error INFO     Started server process [4656]
+2020-09-21 01:34:43,096 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:34:43,097 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:34:43,097 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:34:56,641 uvicorn.error INFO     Shutting down
+2020-09-21 01:34:56,742 uvicorn.error INFO     Finished server process [4656]
+2020-09-21 01:36:14,487 uvicorn.error INFO     Started server process [5139]
+2020-09-21 01:36:14,488 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:36:14,488 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:36:14,488 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:36:41,170 uvicorn.error INFO     Shutting down
+2020-09-21 01:36:41,271 uvicorn.error INFO     Finished server process [5139]
+2020-09-21 01:37:03,444 uvicorn.error INFO     Started server process [5482]
+2020-09-21 01:37:03,444 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:37:03,444 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:37:03,445 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:37:07,254 uvicorn.error INFO     Shutting down
+2020-09-21 01:37:07,355 uvicorn.error INFO     Finished server process [5482]
+2020-09-21 01:37:07,814 uvicorn.error INFO     Started server process [5530]
+2020-09-21 01:37:07,814 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:37:07,814 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:37:07,814 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:37:38,504 uvicorn.error INFO     Shutting down
+2020-09-21 01:37:38,605 uvicorn.error INFO     Finished server process [5530]
+2020-09-21 01:37:39,108 uvicorn.error INFO     Started server process [5714]
+2020-09-21 01:37:39,108 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:37:39,108 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:37:39,108 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:37:51,447 uvicorn.error INFO     Shutting down
+2020-09-21 01:37:51,547 uvicorn.error INFO     Finished server process [5714]
+2020-09-21 01:37:52,058 uvicorn.error INFO     Started server process [5790]
+2020-09-21 01:37:52,058 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:37:52,058 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:37:52,058 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:37:57,274 uvicorn.error INFO     Shutting down
+2020-09-21 01:37:57,375 uvicorn.error INFO     Finished server process [5790]
+2020-09-21 01:37:57,840 uvicorn.error INFO     Started server process [5835]
+2020-09-21 01:37:57,840 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:37:57,840 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:37:57,840 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:38:00,752 uvicorn.error INFO     Shutting down
+2020-09-21 01:38:00,853 uvicorn.error INFO     Finished server process [5835]
+2020-09-21 01:38:03,709 uvicorn.error INFO     Started server process [5872]
+2020-09-21 01:38:03,710 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:38:03,710 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:38:03,710 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:38:30,859 django.request WARNING  Not Found: /
+2020-09-21 01:38:49,211 leaveapp.views INFO     With in a 0.8550872802734375 second, model is open.
+2020-09-21 01:38:49,211 leaveapp.views INFO     slack model open successfully.
+2020-09-21 01:39:08,794 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 113, in post
+    await create_leave(create_task)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "./leaveapp/views.py", line 77, in create_leave
+    title=payload_obj["submission"]["subject"],
+TypeError: 'SyncToAsync' object is not subscriptable
+2020-09-21 01:39:59,939 uvicorn.error INFO     Shutting down
+2020-09-21 01:40:00,040 uvicorn.error INFO     Finished server process [5872]
+2020-09-21 01:40:00,645 uvicorn.error INFO     Started server process [6538]
+2020-09-21 01:40:00,646 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:40:00,646 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:40:00,646 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:41:01,441 uvicorn.error INFO     Shutting down
+2020-09-21 01:41:01,541 uvicorn.error INFO     Finished server process [6538]
+2020-09-21 01:41:02,090 uvicorn.error INFO     Started server process [6868]
+2020-09-21 01:41:02,090 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:41:02,090 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:41:02,091 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:41:04,598 uvicorn.error INFO     Shutting down
+2020-09-21 01:41:04,699 uvicorn.error INFO     Finished server process [6868]
+2020-09-21 01:41:05,203 uvicorn.error INFO     Started server process [6896]
+2020-09-21 01:41:05,203 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:41:05,203 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:41:05,204 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:41:13,428 uvicorn.error INFO     Shutting down
+2020-09-21 01:41:13,529 uvicorn.error INFO     Finished server process [6896]
+2020-09-21 01:41:14,023 uvicorn.error INFO     Started server process [6954]
+2020-09-21 01:41:14,023 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:41:14,023 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:41:14,023 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:41:38,895 leaveapp.views INFO     With in a 0.8247668743133545 second, model is open.
+2020-09-21 01:41:38,895 leaveapp.views INFO     slack model open successfully.
+2020-09-21 01:53:14,129 uvicorn.error INFO     Shutting down
+2020-09-21 01:53:14,230 uvicorn.error INFO     Finished server process [6954]
+2020-09-21 01:53:14,762 uvicorn.error INFO     Started server process [10839]
+2020-09-21 01:53:14,762 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:53:14,762 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:53:14,762 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:53:25,295 uvicorn.error INFO     Shutting down
+2020-09-21 01:53:25,396 uvicorn.error INFO     Finished server process [10839]
+2020-09-21 01:53:25,882 uvicorn.error INFO     Started server process [10910]
+2020-09-21 01:53:25,882 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:53:25,883 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:53:25,883 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:53:36,418 uvicorn.error INFO     Shutting down
+2020-09-21 01:53:36,518 uvicorn.error INFO     Finished server process [10910]
+2020-09-21 01:53:37,022 uvicorn.error INFO     Started server process [10979]
+2020-09-21 01:53:37,022 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:53:37,023 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:53:37,023 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:53:50,162 uvicorn.error INFO     Shutting down
+2020-09-21 01:53:50,263 uvicorn.error INFO     Finished server process [10979]
+2020-09-21 01:53:50,743 uvicorn.error INFO     Started server process [11068]
+2020-09-21 01:53:50,743 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:53:50,743 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:53:50,743 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:54:15,452 leaveapp.views INFO     With in a 0.001119852066040039 second, model is open.
+2020-09-21 01:54:15,452 leaveapp.views INFO     slack model open successfully.
+2020-09-21 01:54:26,574 leaveapp.views INFO     With in a 0.0004146099090576172 second, model is open.
+2020-09-21 01:54:26,575 leaveapp.views INFO     slack model open successfully.
+2020-09-21 01:54:42,701 uvicorn.error INFO     Shutting down
+2020-09-21 01:54:42,802 uvicorn.error INFO     Finished server process [11068]
+2020-09-21 01:55:10,930 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-21 01:55:24,555 leaveapp.views INFO     With in a 0.0008862018585205078 second, model is open.
+2020-09-21 01:55:24,556 leaveapp.views INFO     slack model open successfully.
+2020-09-21 01:55:24,559 django.server INFO     "POST /api/v1/leave HTTP/1.1" 200 0
+2020-09-21 01:56:07,055 django.utils.autoreload INFO     /home/prabin/Codavatar/Django/project/leaveapp/views.py changed, reloading.
+2020-09-21 01:56:07,578 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-21 01:56:18,381 django.utils.autoreload INFO     /home/prabin/Codavatar/Django/project/leaveapp/form.py changed, reloading.
+2020-09-21 01:56:18,899 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-09-21 01:56:22,392 django.request ERROR    Internal Server Error: /api/v1/leave
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 507, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 419, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'coroutine'>`
+2020-09-21 01:56:22,396 django.server ERROR    "POST /api/v1/leave HTTP/1.1" 500 145
+2020-09-21 01:56:35,639 uvicorn.error INFO     Started server process [12049]
+2020-09-21 01:56:35,639 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:56:35,639 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:56:35,639 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:56:40,309 django.request ERROR    Internal Server Error: /api/v1/leave
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 507, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 419, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'coroutine'>`
+2020-09-21 01:57:07,848 uvicorn.error INFO     Shutting down
+2020-09-21 01:57:07,949 uvicorn.error INFO     Finished server process [12049]
+2020-09-21 01:57:08,438 uvicorn.error INFO     Started server process [12241]
+2020-09-21 01:57:08,439 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 01:57:08,439 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 01:57:08,439 uvicorn.error INFO     Application startup complete.
+2020-09-21 01:57:19,905 leaveapp.views INFO     With in a 0.8529467582702637 second, model is open.
+2020-09-21 01:57:19,905 leaveapp.views INFO     slack model open successfully.
+2020-09-21 02:02:06,845 uvicorn.error INFO     Shutting down
+2020-09-21 02:02:06,948 uvicorn.error INFO     Finished server process [12241]
+2020-09-21 02:02:07,600 uvicorn.error INFO     Started server process [13742]
+2020-09-21 02:02:07,601 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:02:07,601 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:02:07,602 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:02:43,215 uvicorn.error INFO     Shutting down
+2020-09-21 02:02:43,315 uvicorn.error INFO     Finished server process [13742]
+2020-09-21 02:02:43,814 uvicorn.error INFO     Started server process [13945]
+2020-09-21 02:02:43,814 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:02:43,814 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:02:43,814 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:02:49,733 uvicorn.error INFO     Shutting down
+2020-09-21 02:02:49,833 uvicorn.error INFO     Finished server process [13945]
+2020-09-21 02:02:50,345 uvicorn.error INFO     Started server process [13991]
+2020-09-21 02:02:50,346 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:02:50,346 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:02:50,346 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:02:58,568 uvicorn.error INFO     Shutting down
+2020-09-21 02:02:58,669 uvicorn.error INFO     Finished server process [13991]
+2020-09-21 02:02:59,222 uvicorn.error INFO     Started server process [14046]
+2020-09-21 02:02:59,222 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:02:59,222 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:02:59,222 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:05:01,584 uvicorn.error INFO     Shutting down
+2020-09-21 02:05:01,684 uvicorn.error INFO     Finished server process [14046]
+2020-09-21 02:05:02,160 uvicorn.error INFO     Started server process [14738]
+2020-09-21 02:05:02,160 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:05:02,161 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:05:02,161 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:05:19,311 uvicorn.error INFO     Shutting down
+2020-09-21 02:05:19,412 uvicorn.error INFO     Finished server process [14738]
+2020-09-21 02:05:19,937 uvicorn.error INFO     Started server process [14836]
+2020-09-21 02:05:19,937 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:05:19,938 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:05:19,938 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:09:32,293 uvicorn.error INFO     Shutting down
+2020-09-21 02:09:32,395 uvicorn.error INFO     Finished server process [14836]
+2020-09-21 02:12:54,859 uvicorn.error INFO     Started server process [17374]
+2020-09-21 02:12:54,860 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:12:54,860 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:12:54,860 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:13:56,224 uvicorn.error INFO     Shutting down
+2020-09-21 02:13:56,325 uvicorn.error INFO     Finished server process [17374]
+2020-09-21 02:13:56,944 uvicorn.error INFO     Started server process [17709]
+2020-09-21 02:13:56,945 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:13:56,945 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:13:56,945 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:14:00,958 uvicorn.error INFO     Shutting down
+2020-09-21 02:14:01,059 uvicorn.error INFO     Finished server process [17709]
+2020-09-21 02:14:01,691 uvicorn.error INFO     Started server process [17754]
+2020-09-21 02:14:01,691 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:14:01,691 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:14:01,691 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:14:05,104 uvicorn.error INFO     Shutting down
+2020-09-21 02:14:05,204 uvicorn.error INFO     Finished server process [17754]
+2020-09-21 02:14:05,694 uvicorn.error INFO     Started server process [17784]
+2020-09-21 02:14:05,694 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:14:05,694 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:14:05,695 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:14:20,743 django.request WARNING  Not Found: /
+2020-09-21 02:16:22,105 uvicorn.error INFO     Shutting down
+2020-09-21 02:16:22,206 uvicorn.error INFO     Finished server process [17784]
+2020-09-21 02:16:22,818 uvicorn.error INFO     Started server process [18555]
+2020-09-21 02:16:22,818 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:16:22,819 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:16:22,819 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:16:34,850 uvicorn.error INFO     Shutting down
+2020-09-21 02:16:34,951 uvicorn.error INFO     Finished server process [18555]
+2020-09-21 02:16:35,479 uvicorn.error INFO     Started server process [18692]
+2020-09-21 02:16:35,480 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:16:35,480 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:16:35,480 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:16:55,638 uvicorn.error INFO     Shutting down
+2020-09-21 02:16:55,739 uvicorn.error INFO     Finished server process [18692]
+2020-09-21 02:16:56,287 uvicorn.error INFO     Started server process [18809]
+2020-09-21 02:16:56,287 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:16:56,287 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:16:56,288 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:17:10,033 uvicorn.error INFO     Shutting down
+2020-09-21 02:17:10,134 uvicorn.error INFO     Finished server process [18809]
+2020-09-21 02:17:10,651 uvicorn.error INFO     Started server process [18889]
+2020-09-21 02:17:10,651 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:17:10,651 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:17:10,652 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:17:37,230 uvicorn.error INFO     Shutting down
+2020-09-21 02:17:37,331 uvicorn.error INFO     Finished server process [18889]
+2020-09-21 02:22:48,526 uvicorn.error INFO     Started server process [20889]
+2020-09-21 02:22:48,526 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:22:48,526 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:22:48,527 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:24:03,568 uvicorn.error INFO     Shutting down
+2020-09-21 02:24:03,669 uvicorn.error INFO     Finished server process [20889]
+2020-09-21 02:24:04,287 uvicorn.error INFO     Started server process [21290]
+2020-09-21 02:24:04,288 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:24:04,288 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:24:04,288 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:24:12,412 uvicorn.error INFO     Shutting down
+2020-09-21 02:24:12,513 uvicorn.error INFO     Finished server process [21290]
+2020-09-21 02:24:13,154 uvicorn.error INFO     Started server process [21343]
+2020-09-21 02:24:13,155 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:24:13,155 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:24:13,155 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:24:20,281 uvicorn.error INFO     Shutting down
+2020-09-21 02:24:20,382 uvicorn.error INFO     Finished server process [21343]
+2020-09-21 02:24:36,750 uvicorn.error INFO     Started server process [21504]
+2020-09-21 02:24:36,750 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:24:36,751 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:24:36,751 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:24:55,960 django.request WARNING  Not Found: /favicon.ico
+2020-09-21 02:26:24,603 uvicorn.error INFO     Shutting down
+2020-09-21 02:26:24,704 uvicorn.error INFO     Finished server process [21504]
+2020-09-21 02:26:25,337 uvicorn.error INFO     Started server process [22109]
+2020-09-21 02:26:25,337 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:26:25,337 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:26:25,338 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:27:40,608 uvicorn.error INFO     Shutting down
+2020-09-21 02:27:40,709 uvicorn.error INFO     Finished server process [22109]
+2020-09-21 02:27:41,368 uvicorn.error INFO     Started server process [22562]
+2020-09-21 02:27:41,369 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:27:41,369 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:27:41,369 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:27:44,578 uvicorn.error INFO     Shutting down
+2020-09-21 02:27:44,679 uvicorn.error INFO     Finished server process [22562]
+2020-09-21 02:27:45,280 uvicorn.error INFO     Started server process [22596]
+2020-09-21 02:27:45,281 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:27:45,281 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:27:45,281 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:30:03,964 leaveapp.views INFO     With in a 0.8783249855041504 second, model is open.
+2020-09-21 02:30:03,964 leaveapp.views INFO     slack model open successfully.
+2020-09-21 02:31:53,282 uvicorn.error INFO     Shutting down
+2020-09-21 02:31:53,383 uvicorn.error INFO     Finished server process [22596]
+2020-09-21 02:31:53,999 uvicorn.error INFO     Started server process [23880]
+2020-09-21 02:31:54,000 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:31:54,000 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:31:54,000 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:31:59,116 uvicorn.error INFO     Shutting down
+2020-09-21 02:31:59,217 uvicorn.error INFO     Finished server process [23880]
+2020-09-21 02:31:59,784 uvicorn.error INFO     Started server process [23922]
+2020-09-21 02:31:59,784 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:31:59,784 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:31:59,785 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:32:21,051 uvicorn.error INFO     Shutting down
+2020-09-21 02:32:21,152 uvicorn.error INFO     Finished server process [23922]
+2020-09-21 02:32:21,680 uvicorn.error INFO     Started server process [24042]
+2020-09-21 02:32:21,680 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:32:21,681 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:32:21,681 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:32:37,434 uvicorn.error INFO     Shutting down
+2020-09-21 02:32:37,535 uvicorn.error INFO     Finished server process [24042]
+2020-09-21 02:32:38,039 uvicorn.error INFO     Started server process [24148]
+2020-09-21 02:32:38,039 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:32:38,039 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:32:38,040 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:32:54,690 uvicorn.error INFO     Shutting down
+2020-09-21 02:32:54,790 uvicorn.error INFO     Finished server process [24148]
+2020-09-21 02:32:55,353 uvicorn.error INFO     Started server process [24272]
+2020-09-21 02:32:55,353 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:32:55,353 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:32:55,353 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:33:34,976 uvicorn.error INFO     Shutting down
+2020-09-21 02:33:35,076 uvicorn.error INFO     Finished server process [24272]
+2020-09-21 02:33:35,653 uvicorn.error INFO     Started server process [24472]
+2020-09-21 02:33:35,653 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:33:35,653 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:33:35,653 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:34:18,184 uvicorn.error INFO     Shutting down
+2020-09-21 02:34:18,284 uvicorn.error INFO     Finished server process [24472]
+2020-09-21 02:34:18,795 uvicorn.error INFO     Started server process [24702]
+2020-09-21 02:34:18,795 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:34:18,795 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:34:18,796 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:34:28,025 uvicorn.error INFO     Shutting down
+2020-09-21 02:34:28,125 uvicorn.error INFO     Finished server process [24702]
+2020-09-21 02:34:28,639 uvicorn.error INFO     Started server process [24768]
+2020-09-21 02:34:28,639 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:34:28,639 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:34:28,639 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:34:33,051 uvicorn.error INFO     Shutting down
+2020-09-21 02:34:33,152 uvicorn.error INFO     Finished server process [24768]
+2020-09-21 02:34:33,717 uvicorn.error INFO     Started server process [24803]
+2020-09-21 02:34:33,717 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:34:33,718 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:34:33,718 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:34:43,746 uvicorn.error INFO     Shutting down
+2020-09-21 02:34:43,846 uvicorn.error INFO     Finished server process [24803]
+2020-09-21 02:34:44,377 uvicorn.error INFO     Started server process [24882]
+2020-09-21 02:34:44,377 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:34:44,377 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:34:44,377 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:34:53,606 uvicorn.error INFO     Shutting down
+2020-09-21 02:34:53,707 uvicorn.error INFO     Finished server process [24882]
+2020-09-21 02:34:54,278 uvicorn.error INFO     Started server process [24955]
+2020-09-21 02:34:54,279 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:34:54,279 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:34:54,279 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:35:00,297 uvicorn.error INFO     Shutting down
+2020-09-21 02:35:00,398 uvicorn.error INFO     Finished server process [24955]
+2020-09-21 02:35:00,904 uvicorn.error INFO     Started server process [24998]
+2020-09-21 02:35:00,905 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:35:00,905 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:35:00,905 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:35:19,460 leaveapp.views INFO     With in a 0.8547308444976807 second, model is open.
+2020-09-21 02:35:19,460 leaveapp.views INFO     slack model open successfully.
+2020-09-21 02:35:54,684 uvicorn.error INFO     Shutting down
+2020-09-21 02:35:54,784 uvicorn.error INFO     Finished server process [24998]
+2020-09-21 02:35:55,442 uvicorn.error INFO     Started server process [25320]
+2020-09-21 02:35:55,443 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:35:55,443 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:35:55,443 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:35:59,254 uvicorn.error INFO     Shutting down
+2020-09-21 02:35:59,354 uvicorn.error INFO     Finished server process [25320]
+2020-09-21 02:35:59,883 uvicorn.error INFO     Started server process [25358]
+2020-09-21 02:35:59,884 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:35:59,884 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:35:59,884 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:36:03,697 uvicorn.error INFO     Shutting down
+2020-09-21 02:36:03,798 uvicorn.error INFO     Finished server process [25358]
+2020-09-21 02:36:04,282 uvicorn.error INFO     Started server process [25398]
+2020-09-21 02:36:04,282 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:36:04,283 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:36:04,283 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:36:38,850 leaveapp.views INFO     With in a 0.8126037120819092 second, model is open.
+2020-09-21 02:36:38,851 leaveapp.views INFO     slack model open successfully.
+2020-09-21 02:37:31,963 uvicorn.error INFO     Shutting down
+2020-09-21 02:37:32,063 uvicorn.error INFO     Finished server process [25398]
+2020-09-21 02:40:05,742 uvicorn.error INFO     Started server process [26806]
+2020-09-21 02:40:05,743 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:40:05,743 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:40:05,743 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:40:10,768 uvicorn.error INFO     Shutting down
+2020-09-21 02:40:10,869 uvicorn.error INFO     Finished server process [26806]
+2020-09-21 02:40:11,548 uvicorn.error INFO     Started server process [26849]
+2020-09-21 02:40:11,549 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:40:11,549 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:40:11,549 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:40:21,481 uvicorn.error INFO     Shutting down
+2020-09-21 02:40:21,581 uvicorn.error INFO     Finished server process [26849]
+2020-09-21 02:40:22,193 uvicorn.error INFO     Started server process [26920]
+2020-09-21 02:40:22,193 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:40:22,194 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:40:22,194 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:40:43,458 uvicorn.error INFO     Shutting down
+2020-09-21 02:40:43,558 uvicorn.error INFO     Finished server process [26920]
+2020-09-21 02:40:44,253 uvicorn.error INFO     Started server process [27054]
+2020-09-21 02:40:44,253 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:40:44,253 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:40:44,253 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:40:48,870 uvicorn.error INFO     Shutting down
+2020-09-21 02:40:48,970 uvicorn.error INFO     Finished server process [27054]
+2020-09-21 02:40:49,596 uvicorn.error INFO     Started server process [27095]
+2020-09-21 02:40:49,596 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:40:49,596 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:40:49,596 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:40:53,110 uvicorn.error INFO     Shutting down
+2020-09-21 02:40:53,210 uvicorn.error INFO     Finished server process [27095]
+2020-09-21 02:40:53,863 uvicorn.error INFO     Started server process [27130]
+2020-09-21 02:40:53,863 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:40:53,864 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:40:53,864 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:41:04,094 uvicorn.error INFO     Shutting down
+2020-09-21 02:41:04,195 uvicorn.error INFO     Finished server process [27130]
+2020-09-21 02:41:04,826 uvicorn.error INFO     Started server process [27216]
+2020-09-21 02:41:04,827 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:41:04,827 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:41:04,827 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:41:24,388 uvicorn.error INFO     Shutting down
+2020-09-21 02:41:24,489 uvicorn.error INFO     Finished server process [27216]
+2020-09-21 02:41:25,142 uvicorn.error INFO     Started server process [27332]
+2020-09-21 02:41:25,142 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:41:25,142 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:41:25,143 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:41:30,157 uvicorn.error INFO     Shutting down
+2020-09-21 02:41:30,258 uvicorn.error INFO     Finished server process [27332]
+2020-09-21 02:41:30,925 uvicorn.error INFO     Started server process [27377]
+2020-09-21 02:41:30,926 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:41:30,926 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:41:30,926 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:41:36,545 uvicorn.error INFO     Shutting down
+2020-09-21 02:41:36,646 uvicorn.error INFO     Finished server process [27377]
+2020-09-21 02:41:37,270 uvicorn.error INFO     Started server process [27420]
+2020-09-21 02:41:37,271 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:41:37,271 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:41:37,271 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:41:40,982 uvicorn.error INFO     Shutting down
+2020-09-21 02:41:41,082 uvicorn.error INFO     Finished server process [27420]
+2020-09-21 02:41:41,680 uvicorn.error INFO     Started server process [27456]
+2020-09-21 02:41:41,680 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:41:41,680 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:41:41,681 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:42:24,215 uvicorn.error INFO     Shutting down
+2020-09-21 02:42:24,315 uvicorn.error INFO     Finished server process [27456]
+2020-09-21 02:42:24,923 uvicorn.error INFO     Started server process [27709]
+2020-09-21 02:42:24,923 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:42:24,923 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:42:24,924 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:42:29,540 uvicorn.error INFO     Shutting down
+2020-09-21 02:42:29,640 uvicorn.error INFO     Finished server process [27709]
+2020-09-21 02:42:30,317 uvicorn.error INFO     Started server process [27755]
+2020-09-21 02:42:30,317 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:42:30,317 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:42:30,318 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:43:48,685 uvicorn.error INFO     Shutting down
+2020-09-21 02:43:48,786 uvicorn.error INFO     Finished server process [27755]
+2020-09-21 02:43:49,406 uvicorn.error INFO     Started server process [28163]
+2020-09-21 02:43:49,406 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:43:49,407 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:43:49,407 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:43:52,818 uvicorn.error INFO     Shutting down
+2020-09-21 02:43:52,919 uvicorn.error INFO     Finished server process [28163]
+2020-09-21 02:43:53,526 uvicorn.error INFO     Started server process [28197]
+2020-09-21 02:43:53,527 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:43:53,527 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:43:53,527 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:44:09,260 leaveapp.views INFO     With in a 0.8591077327728271 second, model is open.
+2020-09-21 02:44:09,260 leaveapp.views INFO     slack model open successfully.
+2020-09-21 02:44:59,937 uvicorn.error INFO     Shutting down
+2020-09-21 02:45:00,038 uvicorn.error INFO     Finished server process [28197]
+2020-09-21 02:45:00,706 uvicorn.error INFO     Started server process [28582]
+2020-09-21 02:45:00,706 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:45:00,706 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:45:00,706 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:45:14,047 uvicorn.error INFO     Shutting down
+2020-09-21 02:45:14,148 uvicorn.error INFO     Finished server process [28582]
+2020-09-21 02:45:14,819 uvicorn.error INFO     Started server process [28667]
+2020-09-21 02:45:14,820 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:45:14,820 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:45:14,820 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:47:17,873 uvicorn.error INFO     Shutting down
+2020-09-21 02:47:17,974 uvicorn.error INFO     Finished server process [28667]
+2020-09-21 02:47:18,745 uvicorn.error INFO     Started server process [29501]
+2020-09-21 02:47:18,745 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:47:18,746 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:47:18,746 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:47:25,364 uvicorn.error INFO     Shutting down
+2020-09-21 02:47:25,465 uvicorn.error INFO     Finished server process [29501]
+2020-09-21 02:47:26,137 uvicorn.error INFO     Started server process [29549]
+2020-09-21 02:47:26,137 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:47:26,137 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:47:26,137 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:47:38,679 uvicorn.error INFO     Shutting down
+2020-09-21 02:47:38,781 uvicorn.error INFO     Finished server process [29549]
+2020-09-21 02:47:39,434 uvicorn.error INFO     Started server process [29633]
+2020-09-21 02:47:39,434 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:47:39,434 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:47:39,435 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:47:50,468 uvicorn.error INFO     Shutting down
+2020-09-21 02:47:50,568 uvicorn.error INFO     Finished server process [29633]
+2020-09-21 02:47:51,164 uvicorn.error INFO     Started server process [29707]
+2020-09-21 02:47:51,165 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:47:51,165 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:47:51,165 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:48:14,531 django.request WARNING  Not Found: /favicon.ico
+2020-09-21 02:53:20,984 uvicorn.error INFO     Shutting down
+2020-09-21 02:53:21,085 uvicorn.error INFO     Finished server process [29707]
+2020-09-21 02:53:21,794 uvicorn.error INFO     Started server process [31455]
+2020-09-21 02:53:21,795 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:53:21,795 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:53:21,795 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:53:31,569 leaveapp.views INFO     With in a 0.8398244380950928 second, model is open.
+2020-09-21 02:53:31,569 leaveapp.views INFO     slack model open successfully.
+2020-09-21 02:58:42,856 uvicorn.error INFO     Shutting down
+2020-09-21 02:58:42,957 uvicorn.error INFO     Finished server process [31455]
+2020-09-21 02:58:43,608 uvicorn.error INFO     Started server process [33199]
+2020-09-21 02:58:43,608 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:58:43,608 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:58:43,608 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:58:56,754 uvicorn.error INFO     Shutting down
+2020-09-21 02:58:56,855 uvicorn.error INFO     Finished server process [33199]
+2020-09-21 02:58:57,538 uvicorn.error INFO     Started server process [33280]
+2020-09-21 02:58:57,539 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:58:57,539 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:58:57,540 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:59:01,352 uvicorn.error INFO     Shutting down
+2020-09-21 02:59:01,453 uvicorn.error INFO     Finished server process [33280]
+2020-09-21 02:59:02,043 uvicorn.error INFO     Started server process [33321]
+2020-09-21 02:59:02,043 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 02:59:02,044 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 02:59:02,044 uvicorn.error INFO     Application startup complete.
+2020-09-21 02:59:18,158 leaveapp.views INFO     With in a 0.7999932765960693 second, model is open.
+2020-09-21 02:59:18,159 leaveapp.views INFO     slack model open successfully.
+2020-09-21 02:59:44,484 leaveapp.views INFO     With in a 0.7285432815551758 second, model is open.
+2020-09-21 02:59:44,484 leaveapp.views INFO     slack model open successfully.
+2020-09-21 02:59:58,269 django.request WARNING  Not Found: /favicon.ico
+2020-09-21 03:00:40,776 leaveapp.views INFO     With in a 0.8104202747344971 second, model is open.
+2020-09-21 03:00:40,776 leaveapp.views INFO     slack model open successfully.
+2020-09-21 03:00:57,231 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 03:04:08,854 uvicorn.error INFO     Shutting down
+2020-09-21 03:04:08,955 uvicorn.error INFO     Finished server process [33321]
+2020-09-21 03:04:09,641 uvicorn.error INFO     Started server process [35052]
+2020-09-21 03:04:09,641 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:04:09,641 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:04:09,641 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:04:17,265 leaveapp.views INFO     With in a 0.8186626434326172 second, model is open.
+2020-09-21 03:04:17,265 leaveapp.views INFO     slack model open successfully.
+2020-09-21 03:04:24,136 leaveapp.views INFO     With in a 0.7113242149353027 second, model is open.
+2020-09-21 03:04:24,136 leaveapp.views INFO     slack model open successfully.
+2020-09-21 03:04:32,257 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 03:13:38,296 uvicorn.error INFO     Shutting down
+2020-09-21 03:13:38,396 uvicorn.error INFO     Finished server process [35052]
+2020-09-21 03:13:39,039 uvicorn.error INFO     Started server process [37890]
+2020-09-21 03:13:39,039 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:13:39,040 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:13:39,040 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:15:36,482 uvicorn.error INFO     Shutting down
+2020-09-21 03:15:36,582 uvicorn.error INFO     Finished server process [37890]
+2020-09-21 03:15:37,208 uvicorn.error INFO     Started server process [38574]
+2020-09-21 03:15:37,208 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:15:37,209 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:15:37,209 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:15:41,484 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 03:49:58,529 uvicorn.error INFO     Shutting down
+2020-09-21 03:49:58,630 uvicorn.error INFO     Finished server process [38574]
+2020-09-21 03:49:59,290 uvicorn.error INFO     Started server process [40169]
+2020-09-21 03:49:59,291 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:49:59,291 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:49:59,291 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:50:16,148 uvicorn.error INFO     Shutting down
+2020-09-21 03:50:16,249 uvicorn.error INFO     Finished server process [40169]
+2020-09-21 03:50:16,827 uvicorn.error INFO     Started server process [40245]
+2020-09-21 03:50:16,827 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:50:16,827 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:50:16,828 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:50:23,548 uvicorn.error INFO     Shutting down
+2020-09-21 03:50:23,648 uvicorn.error INFO     Finished server process [40245]
+2020-09-21 03:50:24,262 uvicorn.error INFO     Started server process [40285]
+2020-09-21 03:50:24,262 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:50:24,262 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:50:24,263 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:50:29,880 uvicorn.error INFO     Shutting down
+2020-09-21 03:50:29,980 uvicorn.error INFO     Finished server process [40285]
+2020-09-21 03:50:30,581 uvicorn.error INFO     Started server process [40320]
+2020-09-21 03:50:30,581 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:50:30,582 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:50:30,582 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:50:45,591 leaveapp.views ERROR    The request to the Slack API failed.
+The server responded with: {'ok': False, 'error': 'validation_errors', 'response_metadata': {'messages': ['[ERROR] Element 4 is missing required field `type`']}}
+2020-09-21 03:51:10,211 uvicorn.error INFO     Shutting down
+2020-09-21 03:51:10,312 uvicorn.error INFO     Finished server process [40320]
+2020-09-21 03:51:10,944 uvicorn.error INFO     Started server process [40483]
+2020-09-21 03:51:10,944 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:51:10,944 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:51:10,945 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:51:14,356 uvicorn.error INFO     Shutting down
+2020-09-21 03:51:14,457 uvicorn.error INFO     Finished server process [40483]
+2020-09-21 03:51:15,016 uvicorn.error INFO     Started server process [40511]
+2020-09-21 03:51:15,016 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:51:15,016 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:51:15,016 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:51:22,038 uvicorn.error INFO     Shutting down
+2020-09-21 03:51:22,139 uvicorn.error INFO     Finished server process [40511]
+2020-09-21 03:51:22,720 uvicorn.error INFO     Started server process [40551]
+2020-09-21 03:51:22,720 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:51:22,720 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:51:22,720 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:51:28,485 leaveapp.views INFO     With in a 0.752901554107666 second, model is open.
+2020-09-21 03:51:28,485 leaveapp.views INFO     slack model open successfully.
+2020-09-21 03:51:41,822 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 03:53:05,885 uvicorn.error INFO     Shutting down
+2020-09-21 03:53:05,986 uvicorn.error INFO     Finished server process [40551]
+2020-09-21 03:53:06,622 uvicorn.error INFO     Started server process [40908]
+2020-09-21 03:53:06,623 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:53:06,623 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:53:06,623 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:53:08,931 uvicorn.error INFO     Shutting down
+2020-09-21 03:53:09,031 uvicorn.error INFO     Finished server process [40908]
+2020-09-21 03:53:09,588 uvicorn.error INFO     Started server process [40940]
+2020-09-21 03:53:09,588 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:53:09,589 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:53:09,589 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:53:26,145 uvicorn.error INFO     Shutting down
+2020-09-21 03:53:26,245 uvicorn.error INFO     Finished server process [40940]
+2020-09-21 03:53:26,816 uvicorn.error INFO     Started server process [41004]
+2020-09-21 03:53:26,817 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:53:26,817 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:53:26,817 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:53:34,801 leaveapp.views INFO     With in a 0.9917917251586914 second, model is open.
+2020-09-21 03:53:34,801 leaveapp.views INFO     slack model open successfully.
+2020-09-21 03:53:50,402 uvicorn.error INFO     Shutting down
+2020-09-21 03:53:50,502 uvicorn.error INFO     Finished server process [41004]
+2020-09-21 03:53:51,131 uvicorn.error INFO     Started server process [41122]
+2020-09-21 03:53:51,132 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:53:51,132 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:53:51,132 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:53:59,072 leaveapp.views INFO     With in a 0.7293362617492676 second, model is open.
+2020-09-21 03:53:59,073 leaveapp.views INFO     slack model open successfully.
+2020-09-21 03:54:15,645 leaveapp.views INFO     With in a 0.7939186096191406 second, model is open.
+2020-09-21 03:54:15,646 leaveapp.views INFO     slack model open successfully.
+2020-09-21 03:56:17,701 uvicorn.error INFO     Shutting down
+2020-09-21 03:56:17,802 uvicorn.error INFO     Finished server process [41122]
+2020-09-21 03:56:18,451 uvicorn.error INFO     Started server process [41672]
+2020-09-21 03:56:18,451 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:56:18,451 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:56:18,452 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:56:23,522 django.request ERROR    Internal Server Error: /admin/leaveapp/leave/
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/options.py", line 575, in get_field
+    return self.fields_map[field_name]
+KeyError: 'leave_datecreated_at'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/utils.py", line 318, in label_for_field
+    field = _get_non_gfk_field(model._meta, name)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/utils.py", line 295, in _get_non_gfk_field
+    field = opts.get_field(name)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/options.py", line 577, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: Leave has no field named 'leave_datecreated_at'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 261, in _get_response_async
+    response = await sync_to_async(response.render, thread_sensitive=True)()
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/response.py", line 83, in rendered_content
+    return template.render(context, self._request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/templatetags/base.py", line 33, in render
+    return super().render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/library.py", line 214, in render
+    _dict = self.func(*resolved_args, **resolved_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/templatetags/admin_list.py", line 331, in result_list
+    headers = list(result_headers(cl))
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/templatetags/admin_list.py", line 112, in result_headers
+    text, attr = label_for_field(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/utils.py", line 343, in label_for_field
+    raise AttributeError(message)
+AttributeError: Unable to lookup 'leave_datecreated_at' on Leave or Leaveapp
+2020-09-21 03:56:25,354 django.request ERROR    Internal Server Error: /admin/leaveapp/leave/
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/options.py", line 575, in get_field
+    return self.fields_map[field_name]
+KeyError: 'leave_datecreated_at'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/utils.py", line 318, in label_for_field
+    field = _get_non_gfk_field(model._meta, name)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/utils.py", line 295, in _get_non_gfk_field
+    field = opts.get_field(name)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/options.py", line 577, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: Leave has no field named 'leave_datecreated_at'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 261, in _get_response_async
+    response = await sync_to_async(response.render, thread_sensitive=True)()
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/response.py", line 83, in rendered_content
+    return template.render(context, self._request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/templatetags/base.py", line 33, in render
+    return super().render(context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/template/library.py", line 214, in render
+    _dict = self.func(*resolved_args, **resolved_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/templatetags/admin_list.py", line 331, in result_list
+    headers = list(result_headers(cl))
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/templatetags/admin_list.py", line 112, in result_headers
+    text, attr = label_for_field(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/utils.py", line 343, in label_for_field
+    raise AttributeError(message)
+AttributeError: Unable to lookup 'leave_datecreated_at' on Leave or Leaveapp
+2020-09-21 03:56:36,400 uvicorn.error INFO     Shutting down
+2020-09-21 03:56:36,501 uvicorn.error INFO     Finished server process [41672]
+2020-09-21 03:56:37,167 uvicorn.error INFO     Started server process [41774]
+2020-09-21 03:56:37,167 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:56:37,168 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:56:37,168 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:58:09,065 uvicorn.error INFO     Shutting down
+2020-09-21 03:58:09,166 uvicorn.error INFO     Finished server process [41774]
+2020-09-21 03:58:09,869 uvicorn.error INFO     Started server process [42170]
+2020-09-21 03:58:09,870 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:58:09,870 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:58:09,870 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:59:51,063 uvicorn.error INFO     Shutting down
+2020-09-21 03:59:51,163 uvicorn.error INFO     Finished server process [42170]
+2020-09-21 03:59:51,762 uvicorn.error INFO     Started server process [42537]
+2020-09-21 03:59:51,762 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:59:51,762 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:59:51,763 uvicorn.error INFO     Application startup complete.
+2020-09-21 03:59:57,881 uvicorn.error INFO     Shutting down
+2020-09-21 03:59:57,981 uvicorn.error INFO     Finished server process [42537]
+2020-09-21 03:59:58,570 uvicorn.error INFO     Started server process [42573]
+2020-09-21 03:59:58,571 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 03:59:58,571 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 03:59:58,571 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:00:13,215 uvicorn.error INFO     Shutting down
+2020-09-21 04:00:13,316 uvicorn.error INFO     Finished server process [42573]
+2020-09-21 04:00:13,904 uvicorn.error INFO     Started server process [42645]
+2020-09-21 04:00:13,905 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:00:13,905 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:00:13,905 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:08:34,772 uvicorn.error INFO     Shutting down
+2020-09-21 04:08:34,872 uvicorn.error INFO     Finished server process [42645]
+2020-09-21 04:08:35,453 uvicorn.error INFO     Started server process [44389]
+2020-09-21 04:08:35,453 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:08:35,453 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:08:35,453 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:08:49,951 leaveapp.views INFO     With in a 0.8341701030731201 second, model is open.
+2020-09-21 04:08:49,951 leaveapp.views INFO     slack model open successfully.
+2020-09-21 04:09:11,760 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 111, in post
+    if datetime.datetime.now().date() < datetime.datetime.strptime(payload_obj["submission"]["date"], '%Y-%m-%d'):
+AttributeError: type object 'datetime.datetime' has no attribute 'datetime'
+2020-09-21 04:09:40,463 uvicorn.error INFO     Shutting down
+2020-09-21 04:09:40,564 uvicorn.error INFO     Finished server process [44389]
+2020-09-21 04:09:41,212 uvicorn.error INFO     Started server process [44652]
+2020-09-21 04:09:41,212 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:09:41,212 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:09:41,212 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:10:06,896 uvicorn.error INFO     Shutting down
+2020-09-21 04:10:06,996 uvicorn.error INFO     Finished server process [44652]
+2020-09-21 04:10:07,640 uvicorn.error INFO     Started server process [44749]
+2020-09-21 04:10:07,640 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:10:07,640 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:10:07,640 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:10:10,438 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 111, in post
+    if datetime.datetime.now().date() < datetime.datetime.strptime(payload_obj["submission"]["date"], '%Y-%m-%d'):
+TypeError: can't compare datetime.datetime to datetime.date
+2020-09-21 04:13:05,596 uvicorn.error INFO     Shutting down
+2020-09-21 04:13:05,696 uvicorn.error INFO     Finished server process [44749]
+2020-09-21 04:13:06,355 uvicorn.error INFO     Started server process [45373]
+2020-09-21 04:13:06,356 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:13:06,356 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:13:06,357 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:13:50,598 uvicorn.error INFO     Shutting down
+2020-09-21 04:13:50,699 uvicorn.error INFO     Finished server process [45373]
+2020-09-21 04:13:51,351 uvicorn.error INFO     Started server process [45541]
+2020-09-21 04:13:51,351 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:13:51,351 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:13:51,351 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:14:07,351 leaveapp.views INFO     With in a 0.7540261745452881 second, model is open.
+2020-09-21 04:14:07,352 leaveapp.views INFO     slack model open successfully.
+2020-09-21 04:14:35,816 uvicorn.error INFO     Shutting down
+2020-09-21 04:14:35,917 uvicorn.error INFO     Finished server process [45541]
+2020-09-21 04:14:36,580 uvicorn.error INFO     Started server process [45728]
+2020-09-21 04:14:36,581 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:14:36,581 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:14:36,581 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:14:43,835 leaveapp.views INFO     With in a 0.7570445537567139 second, model is open.
+2020-09-21 04:14:43,836 leaveapp.views INFO     slack model open successfully.
+2020-09-21 04:15:04,396 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 04:15:32,728 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 04:18:02,167 uvicorn.error INFO     Shutting down
+2020-09-21 04:18:02,268 uvicorn.error INFO     Finished server process [45728]
+2020-09-21 04:18:03,074 uvicorn.error INFO     Started server process [46464]
+2020-09-21 04:18:03,075 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:18:03,075 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:18:03,075 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:18:14,799 leaveapp.views INFO     With in a 0.8785109519958496 second, model is open.
+2020-09-21 04:18:14,800 leaveapp.views INFO     slack model open successfully.
+2020-09-21 04:18:33,886 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 04:18:49,951 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 04:23:06,378 uvicorn.error INFO     Shutting down
+2020-09-21 04:23:06,478 uvicorn.error INFO     Finished server process [46464]
+2020-09-21 04:23:07,269 uvicorn.error INFO     Started server process [47515]
+2020-09-21 04:23:07,269 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:23:07,269 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:23:07,270 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:23:11,784 uvicorn.error INFO     Shutting down
+2020-09-21 04:23:11,885 uvicorn.error INFO     Finished server process [47515]
+2020-09-21 04:23:12,511 uvicorn.error INFO     Started server process [47549]
+2020-09-21 04:23:12,511 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:23:12,511 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:23:12,511 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:23:17,733 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 04:25:15,103 uvicorn.error INFO     Shutting down
+2020-09-21 04:25:15,204 uvicorn.error INFO     Finished server process [47549]
+2020-09-21 04:25:15,790 uvicorn.error INFO     Started server process [48009]
+2020-09-21 04:25:15,790 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:25:15,791 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:25:15,791 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:26:17,780 uvicorn.error INFO     Shutting down
+2020-09-21 04:26:17,881 uvicorn.error INFO     Finished server process [48009]
+2020-09-21 04:26:18,465 uvicorn.error INFO     Started server process [48241]
+2020-09-21 04:26:18,466 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:26:18,466 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:26:18,466 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:26:31,504 uvicorn.error INFO     Shutting down
+2020-09-21 04:26:31,605 uvicorn.error INFO     Finished server process [48241]
+2020-09-21 04:26:32,255 uvicorn.error INFO     Started server process [48302]
+2020-09-21 04:26:32,255 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:26:32,256 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:26:32,256 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:26:45,900 uvicorn.error INFO     Shutting down
+2020-09-21 04:26:46,000 uvicorn.error INFO     Finished server process [48302]
+2020-09-21 04:26:46,601 uvicorn.error INFO     Started server process [48366]
+2020-09-21 04:26:46,602 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:26:46,602 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:26:46,602 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:26:49,409 uvicorn.error INFO     Shutting down
+2020-09-21 04:26:49,510 uvicorn.error INFO     Finished server process [48366]
+2020-09-21 04:26:50,138 uvicorn.error INFO     Started server process [48391]
+2020-09-21 04:26:50,139 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:26:50,139 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:26:50,139 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:26:52,946 uvicorn.error INFO     Shutting down
+2020-09-21 04:26:53,047 uvicorn.error INFO     Finished server process [48391]
+2020-09-21 04:26:53,774 uvicorn.error INFO     Started server process [48413]
+2020-09-21 04:26:53,775 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:26:53,775 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:26:53,776 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:26:57,890 uvicorn.error INFO     Shutting down
+2020-09-21 04:26:57,990 uvicorn.error INFO     Finished server process [48413]
+2020-09-21 04:26:58,623 uvicorn.error INFO     Started server process [48444]
+2020-09-21 04:26:58,624 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:26:58,624 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:26:58,624 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:27:05,145 uvicorn.error INFO     Shutting down
+2020-09-21 04:27:05,246 uvicorn.error INFO     Finished server process [48444]
+2020-09-21 04:27:05,907 uvicorn.error INFO     Started server process [48489]
+2020-09-21 04:27:05,908 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:27:05,908 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:27:05,908 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:27:08,417 uvicorn.error INFO     Shutting down
+2020-09-21 04:27:08,518 uvicorn.error INFO     Finished server process [48489]
+2020-09-21 04:27:09,131 uvicorn.error INFO     Started server process [48514]
+2020-09-21 04:27:09,131 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:27:09,131 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:27:09,132 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:27:20,586 leaveapp.views INFO     With in a 0.7712140083312988 second, model is open.
+2020-09-21 04:27:20,586 leaveapp.views INFO     slack model open successfully.
+2020-09-21 04:27:44,731 leaveapp.views INFO     With in a 0.7630171775817871 second, model is open.
+2020-09-21 04:27:44,731 leaveapp.views INFO     slack model open successfully.
+2020-09-21 04:29:04,224 uvicorn.error INFO     Shutting down
+2020-09-21 04:29:04,325 uvicorn.error INFO     Finished server process [48514]
+2020-09-21 04:29:05,090 uvicorn.error INFO     Started server process [48933]
+2020-09-21 04:29:05,090 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:29:05,090 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:29:05,090 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:29:17,223 leaveapp.views INFO     With in a 0.8686027526855469 second, model is open.
+2020-09-21 04:29:17,224 leaveapp.views INFO     slack model open successfully.
+2020-09-21 04:29:46,874 leaveapp.views INFO     With in a 0.7236247062683105 second, model is open.
+2020-09-21 04:29:46,874 leaveapp.views INFO     slack model open successfully.
+2020-09-21 04:30:02,172 uvicorn.error INFO     Shutting down
+2020-09-21 04:30:02,273 uvicorn.error INFO     Finished server process [48933]
+2020-09-21 04:30:08,559 uvicorn.error INFO     Started server process [49170]
+2020-09-21 04:30:08,559 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:30:08,560 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:30:08,560 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:30:14,947 leaveapp.views INFO     With in a 0.7689402103424072 second, model is open.
+2020-09-21 04:30:14,947 leaveapp.views INFO     slack model open successfully.
+2020-09-21 04:30:34,162 leaveapp.views INFO     With in a 0.8279149532318115 second, model is open.
+2020-09-21 04:30:34,162 leaveapp.views INFO     slack model open successfully.
+2020-09-21 04:32:31,216 uvicorn.error INFO     Shutting down
+2020-09-21 04:32:31,317 uvicorn.error INFO     Finished server process [49170]
+2020-09-21 04:32:31,965 uvicorn.error INFO     Started server process [49686]
+2020-09-21 04:32:31,966 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:32:31,966 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:32:31,966 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:32:36,479 uvicorn.error INFO     Shutting down
+2020-09-21 04:32:36,580 uvicorn.error INFO     Finished server process [49686]
+2020-09-21 04:32:37,160 uvicorn.error INFO     Started server process [49721]
+2020-09-21 04:32:37,160 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:32:37,160 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:32:37,160 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:32:50,003 uvicorn.error INFO     Shutting down
+2020-09-21 04:32:50,104 uvicorn.error INFO     Finished server process [49721]
+2020-09-21 04:32:50,682 uvicorn.error INFO     Started server process [49780]
+2020-09-21 04:32:50,682 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:32:50,682 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:32:50,683 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:32:53,792 uvicorn.error INFO     Shutting down
+2020-09-21 04:32:53,893 uvicorn.error INFO     Finished server process [49780]
+2020-09-21 04:32:54,485 uvicorn.error INFO     Started server process [49802]
+2020-09-21 04:32:54,485 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:32:54,485 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:32:54,485 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:33:10,195 leaveapp.views INFO     With in a 0.8775820732116699 second, model is open.
+2020-09-21 04:33:10,195 leaveapp.views INFO     slack model open successfully.
+2020-09-21 04:38:20,600 uvicorn.error INFO     Shutting down
+2020-09-21 04:38:20,701 uvicorn.error INFO     Finished server process [49802]
+2020-09-21 04:38:21,304 uvicorn.error INFO     Started server process [50937]
+2020-09-21 04:38:21,305 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:38:21,305 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:38:21,305 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:38:27,879 leaveapp.views INFO     With in a 0.8716471195220947 second, model is open.
+2020-09-21 04:38:27,880 leaveapp.views INFO     slack model open successfully.
+2020-09-21 04:38:41,468 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 04:42:12,940 uvicorn.error INFO     Shutting down
+2020-09-21 04:42:13,041 uvicorn.error INFO     Finished server process [50937]
+2020-09-21 04:42:13,800 uvicorn.error INFO     Started server process [51882]
+2020-09-21 04:42:13,800 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:42:13,800 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:42:13,801 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:42:16,899 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 04:46:30,064 uvicorn.error INFO     Shutting down
+2020-09-21 04:46:30,165 uvicorn.error INFO     Finished server process [51882]
+2020-09-21 04:46:30,796 uvicorn.error INFO     Started server process [52897]
+2020-09-21 04:46:30,796 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:46:30,796 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:46:30,796 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:46:37,318 uvicorn.error INFO     Shutting down
+2020-09-21 04:46:37,418 uvicorn.error INFO     Finished server process [52897]
+2020-09-21 04:46:38,077 uvicorn.error INFO     Started server process [52935]
+2020-09-21 04:46:38,077 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:46:38,078 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:46:38,078 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:46:51,225 uvicorn.error INFO     Shutting down
+2020-09-21 04:46:51,326 uvicorn.error INFO     Finished server process [52935]
+2020-09-21 04:46:51,980 uvicorn.error INFO     Started server process [52991]
+2020-09-21 04:46:51,980 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:46:51,981 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:46:51,981 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:47:13,054 uvicorn.error INFO     Shutting down
+2020-09-21 04:47:13,154 uvicorn.error INFO     Finished server process [52991]
+2020-09-21 04:47:13,839 uvicorn.error INFO     Started server process [53092]
+2020-09-21 04:47:13,839 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:47:13,840 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:47:13,840 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:47:45,343 uvicorn.error INFO     Shutting down
+2020-09-21 04:47:45,443 uvicorn.error INFO     Finished server process [53092]
+2020-09-21 04:47:46,196 uvicorn.error INFO     Started server process [53224]
+2020-09-21 04:47:46,196 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:47:46,197 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:47:46,197 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:48:29,840 uvicorn.error INFO     Shutting down
+2020-09-21 04:48:29,941 uvicorn.error INFO     Finished server process [53224]
+2020-09-21 04:48:30,683 uvicorn.error INFO     Started server process [53383]
+2020-09-21 04:48:30,683 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:48:30,683 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:48:30,684 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:48:42,624 uvicorn.error INFO     Shutting down
+2020-09-21 04:48:42,725 uvicorn.error INFO     Finished server process [53383]
+2020-09-21 04:48:43,396 uvicorn.error INFO     Started server process [53453]
+2020-09-21 04:48:43,396 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:48:43,396 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:48:43,396 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:48:45,403 uvicorn.error INFO     Shutting down
+2020-09-21 04:48:45,505 uvicorn.error INFO     Finished server process [53453]
+2020-09-21 04:48:46,223 uvicorn.error INFO     Started server process [53475]
+2020-09-21 04:48:46,223 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:48:46,223 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:48:46,223 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:49:25,968 uvicorn.error INFO     Shutting down
+2020-09-21 04:49:26,069 uvicorn.error INFO     Finished server process [53475]
+2020-09-21 04:49:26,686 uvicorn.error INFO     Started server process [53638]
+2020-09-21 04:49:26,686 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:49:26,686 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:49:26,686 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:51:48,801 uvicorn.error INFO     Shutting down
+2020-09-21 04:51:48,902 uvicorn.error INFO     Finished server process [53638]
+2020-09-21 04:51:49,478 uvicorn.error INFO     Started server process [54193]
+2020-09-21 04:51:49,478 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 04:51:49,478 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 04:51:49,479 uvicorn.error INFO     Application startup complete.
+2020-09-21 04:51:54,506 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 04:51:56,581 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 04:52:05,581 leaveapp.views INFO     With in a 0.8982110023498535 second, model is open.
+2020-09-21 04:52:05,581 leaveapp.views INFO     slack model open successfully.
+2020-09-21 04:52:16,516 django.request WARNING  Bad Request: /api/v1/leaveinfo
+2020-09-21 05:22:43,625 leaveapp.views INFO     With in a 0.8352465629577637 second, model is open.
+2020-09-21 05:22:43,625 leaveapp.views INFO     slack model open successfully.
+2020-09-21 05:24:41,779 uvicorn.error INFO     Shutting down
+2020-09-21 05:24:41,880 uvicorn.error INFO     Finished server process [54193]
+2020-09-21 05:24:42,738 uvicorn.error INFO     Started server process [63657]
+2020-09-21 05:24:42,739 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:24:42,739 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:24:42,740 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:24:54,881 uvicorn.error INFO     Shutting down
+2020-09-21 05:24:54,982 uvicorn.error INFO     Finished server process [63657]
+2020-09-21 05:24:55,571 uvicorn.error INFO     Started server process [63752]
+2020-09-21 05:24:55,571 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:24:55,571 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:24:55,571 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:24:57,276 uvicorn.error INFO     Shutting down
+2020-09-21 05:24:57,377 uvicorn.error INFO     Finished server process [63752]
+2020-09-21 05:24:57,960 uvicorn.error INFO     Started server process [63781]
+2020-09-21 05:24:57,960 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:24:57,960 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:24:57,960 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:25:07,790 uvicorn.error INFO     Shutting down
+2020-09-21 05:25:07,891 uvicorn.error INFO     Finished server process [63781]
+2020-09-21 05:25:08,548 uvicorn.error INFO     Started server process [63872]
+2020-09-21 05:25:08,548 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:25:08,548 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:25:08,548 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:25:19,482 uvicorn.error INFO     Shutting down
+2020-09-21 05:25:19,583 uvicorn.error INFO     Finished server process [63872]
+2020-09-21 05:25:20,188 uvicorn.error INFO     Started server process [63967]
+2020-09-21 05:25:20,189 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:25:20,189 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:25:20,189 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:25:25,504 uvicorn.error INFO     Shutting down
+2020-09-21 05:25:25,604 uvicorn.error INFO     Finished server process [63967]
+2020-09-21 05:25:26,202 uvicorn.error INFO     Started server process [64019]
+2020-09-21 05:25:26,202 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:25:26,202 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:25:26,203 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:25:57,202 uvicorn.error INFO     Shutting down
+2020-09-21 05:25:57,302 uvicorn.error INFO     Finished server process [64019]
+2020-09-21 05:25:57,876 uvicorn.error INFO     Started server process [64261]
+2020-09-21 05:25:57,876 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:25:57,876 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:25:57,876 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:26:10,015 uvicorn.error INFO     Shutting down
+2020-09-21 05:26:10,116 uvicorn.error INFO     Finished server process [64261]
+2020-09-21 05:26:10,704 uvicorn.error INFO     Started server process [64370]
+2020-09-21 05:26:10,705 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:26:10,705 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:26:10,705 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:26:13,012 uvicorn.error INFO     Shutting down
+2020-09-21 05:26:13,113 uvicorn.error INFO     Finished server process [64370]
+2020-09-21 05:26:13,702 uvicorn.error INFO     Started server process [64399]
+2020-09-21 05:26:13,702 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:26:13,703 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:26:13,703 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:26:24,944 uvicorn.error INFO     Shutting down
+2020-09-21 05:26:25,045 uvicorn.error INFO     Finished server process [64399]
+2020-09-21 05:26:25,639 uvicorn.error INFO     Started server process [64493]
+2020-09-21 05:26:25,639 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:26:25,639 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:26:25,639 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:26:31,660 uvicorn.error INFO     Shutting down
+2020-09-21 05:26:31,761 uvicorn.error INFO     Finished server process [64493]
+2020-09-21 05:26:32,356 uvicorn.error INFO     Started server process [64545]
+2020-09-21 05:26:32,357 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:26:32,357 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:26:32,357 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:26:37,477 uvicorn.error INFO     Shutting down
+2020-09-21 05:26:37,578 uvicorn.error INFO     Finished server process [64545]
+2020-09-21 05:26:38,233 uvicorn.error INFO     Started server process [64598]
+2020-09-21 05:26:38,233 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:26:38,233 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:26:38,234 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:27:02,302 leaveapp.views INFO     With in a 0.8260364532470703 second, model is open.
+2020-09-21 05:27:02,302 leaveapp.views INFO     slack model open successfully.
+2020-09-21 05:30:41,429 leaveapp.views INFO     With in a 0.830094575881958 second, model is open.
+2020-09-21 05:30:41,429 leaveapp.views INFO     slack model open successfully.
+2020-09-21 05:32:21,487 leaveapp.views INFO     With in a 0.7770829200744629 second, model is open.
+2020-09-21 05:32:21,488 leaveapp.views INFO     slack model open successfully.
+2020-09-21 05:33:04,883 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 91, in post
+    await post_Message(
+  File "./leaveapp/slack_views.py", line 10, in post_Message
+    a = await slack_client.chat_postMessage(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/slack/web/base_client.py", line 195, in _send
+    return SlackResponse(**{**data, **res}).validate()
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/slack/web/slack_response.py", line 194, in validate
+    raise e.SlackApiError(message=msg, response=self)
+slack.errors.SlackApiError: The request to the Slack API failed.
+The server responded with: {'ok': False, 'error': 'channel_not_found'}
+2020-09-21 05:38:42,803 uvicorn.error INFO     Shutting down
+2020-09-21 05:38:42,903 uvicorn.error INFO     Finished server process [64598]
+2020-09-21 05:38:43,527 uvicorn.error INFO     Started server process [69513]
+2020-09-21 05:38:43,527 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:38:43,527 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:38:43,527 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:39:43,212 uvicorn.error INFO     Shutting down
+2020-09-21 05:39:43,313 uvicorn.error INFO     Finished server process [69513]
+2020-09-21 05:39:43,875 uvicorn.error INFO     Started server process [69921]
+2020-09-21 05:39:43,875 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:39:43,875 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:39:43,876 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:40:01,235 uvicorn.error INFO     Shutting down
+2020-09-21 05:40:01,336 uvicorn.error INFO     Finished server process [69921]
+2020-09-21 05:40:01,978 uvicorn.error INFO     Started server process [70048]
+2020-09-21 05:40:01,978 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:40:01,978 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:40:01,979 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:40:34,064 leaveapp.views INFO     With in a 0.8957056999206543 second, model is open.
+2020-09-21 05:40:34,064 leaveapp.views INFO     slack model open successfully.
+2020-09-21 05:41:31,491 uvicorn.error INFO     Shutting down
+2020-09-21 05:41:31,592 uvicorn.error INFO     Finished server process [70048]
+2020-09-21 05:41:32,199 uvicorn.error INFO     Started server process [70680]
+2020-09-21 05:41:32,200 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:41:32,200 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:41:32,200 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:41:45,010 leaveapp.views INFO     With in a 0.8598344326019287 second, model is open.
+2020-09-21 05:41:45,011 leaveapp.views INFO     slack model open successfully.
+2020-09-21 05:43:16,863 uvicorn.error INFO     Shutting down
+2020-09-21 05:43:16,964 uvicorn.error INFO     Finished server process [70680]
+2020-09-21 05:43:17,581 uvicorn.error INFO     Started server process [71382]
+2020-09-21 05:43:17,581 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:43:17,581 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:43:17,582 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:43:52,490 uvicorn.error INFO     Shutting down
+2020-09-21 05:43:52,590 uvicorn.error INFO     Finished server process [71382]
+2020-09-21 05:43:53,220 uvicorn.error INFO     Started server process [71656]
+2020-09-21 05:43:53,220 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:43:53,221 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:43:53,221 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:44:36,057 uvicorn.error INFO     Shutting down
+2020-09-21 05:44:36,158 uvicorn.error INFO     Finished server process [71656]
+2020-09-21 05:44:36,757 uvicorn.error INFO     Started server process [71964]
+2020-09-21 05:44:36,757 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:44:36,757 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:44:36,757 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:44:42,677 uvicorn.error INFO     Shutting down
+2020-09-21 05:44:42,778 uvicorn.error INFO     Finished server process [71964]
+2020-09-21 05:44:43,439 uvicorn.error INFO     Started server process [72016]
+2020-09-21 05:44:43,440 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:44:43,440 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:44:43,440 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:44:47,352 uvicorn.error INFO     Shutting down
+2020-09-21 05:44:47,452 uvicorn.error INFO     Finished server process [72016]
+2020-09-21 05:44:48,050 uvicorn.error INFO     Started server process [72057]
+2020-09-21 05:44:48,051 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:44:48,051 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:44:48,051 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:44:56,278 uvicorn.error INFO     Shutting down
+2020-09-21 05:44:56,379 uvicorn.error INFO     Finished server process [72057]
+2020-09-21 05:44:56,977 uvicorn.error INFO     Started server process [72134]
+2020-09-21 05:44:56,977 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:44:56,977 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:44:56,977 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:45:16,341 leaveapp.views INFO     With in a 0.8236889839172363 second, model is open.
+2020-09-21 05:45:16,341 leaveapp.views INFO     slack model open successfully.
+2020-09-21 05:45:34,992 django.request ERROR    Internal Server Error: /api/v1/leaveinfo
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/views.py", line 94, in post
+    r = requests.post(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/requests/api.py", line 119, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+TypeError: request() got an unexpected keyword argument 'header'
+2020-09-21 05:45:54,860 uvicorn.error INFO     Shutting down
+2020-09-21 05:45:54,960 uvicorn.error INFO     Finished server process [72134]
+2020-09-21 05:45:55,550 uvicorn.error INFO     Started server process [72547]
+2020-09-21 05:45:55,551 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:45:55,551 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:45:55,551 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:46:37,784 uvicorn.error INFO     Shutting down
+2020-09-21 05:46:37,885 uvicorn.error INFO     Finished server process [72547]
+2020-09-21 05:46:38,533 uvicorn.error INFO     Started server process [72851]
+2020-09-21 05:46:38,534 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:46:38,534 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:46:38,534 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:46:46,652 leaveapp.views INFO     With in a 0.8419599533081055 second, model is open.
+2020-09-21 05:46:46,652 leaveapp.views INFO     slack model open successfully.
+2020-09-21 05:49:08,771 uvicorn.error INFO     Shutting down
+2020-09-21 05:49:08,872 uvicorn.error INFO     Finished server process [72851]
+2020-09-21 05:49:09,587 uvicorn.error INFO     Started server process [73890]
+2020-09-21 05:49:09,588 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:49:09,588 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:49:09,588 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:49:35,068 uvicorn.error INFO     Shutting down
+2020-09-21 05:49:35,169 uvicorn.error INFO     Finished server process [73890]
+2020-09-21 05:49:35,800 uvicorn.error INFO     Started server process [74090]
+2020-09-21 05:49:35,800 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:49:35,801 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:49:35,801 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:49:48,237 uvicorn.error INFO     Shutting down
+2020-09-21 05:49:48,338 uvicorn.error INFO     Finished server process [74090]
+2020-09-21 05:49:48,925 uvicorn.error INFO     Started server process [74181]
+2020-09-21 05:49:48,925 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:49:48,925 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:49:48,925 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:49:56,348 uvicorn.error INFO     Shutting down
+2020-09-21 05:49:56,449 uvicorn.error INFO     Finished server process [74181]
+2020-09-21 05:49:57,090 uvicorn.error INFO     Started server process [74245]
+2020-09-21 05:49:57,091 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:49:57,091 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:49:57,091 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:50:07,521 uvicorn.error INFO     Shutting down
+2020-09-21 05:50:07,622 uvicorn.error INFO     Finished server process [74245]
+2020-09-21 05:50:08,269 uvicorn.error INFO     Started server process [74339]
+2020-09-21 05:50:08,270 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:50:08,270 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:50:08,270 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:50:14,589 uvicorn.error INFO     Shutting down
+2020-09-21 05:50:14,690 uvicorn.error INFO     Finished server process [74339]
+2020-09-21 05:50:15,315 uvicorn.error INFO     Started server process [74405]
+2020-09-21 05:50:15,315 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:50:15,315 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:50:15,315 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:50:28,067 leaveapp.views INFO     With in a 0.864051342010498 second, model is open.
+2020-09-21 05:50:28,068 leaveapp.views INFO     slack model open successfully.
+2020-09-21 05:51:03,496 uvicorn.error INFO     Shutting down
+2020-09-21 05:51:03,596 uvicorn.error INFO     Finished server process [74405]
+2020-09-21 05:51:04,255 uvicorn.error INFO     Started server process [74743]
+2020-09-21 05:51:04,256 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:51:04,256 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:51:04,256 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:51:41,169 uvicorn.error INFO     Shutting down
+2020-09-21 05:51:41,270 uvicorn.error INFO     Finished server process [74743]
+2020-09-21 05:52:21,153 uvicorn.error INFO     Started server process [75318]
+2020-09-21 05:52:21,153 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:52:21,154 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:52:21,154 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:52:52,952 uvicorn.error INFO     Shutting down
+2020-09-21 05:52:53,052 uvicorn.error INFO     Finished server process [75318]
+2020-09-21 05:52:53,592 uvicorn.error INFO     Started server process [75541]
+2020-09-21 05:52:53,592 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:52:53,593 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:52:53,593 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:52:58,407 uvicorn.error INFO     Shutting down
+2020-09-21 05:52:58,508 uvicorn.error INFO     Finished server process [75541]
+2020-09-21 05:52:59,142 uvicorn.error INFO     Started server process [75597]
+2020-09-21 05:52:59,142 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:52:59,142 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:52:59,143 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:53:34,141 uvicorn.error INFO     Shutting down
+2020-09-21 05:53:34,242 uvicorn.error INFO     Finished server process [75597]
+2020-09-21 05:53:34,875 uvicorn.error INFO     Started server process [75862]
+2020-09-21 05:53:34,875 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:53:34,876 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:53:34,876 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:54:34,040 uvicorn.error INFO     Shutting down
+2020-09-21 05:54:34,141 uvicorn.error INFO     Finished server process [75862]
+2020-09-21 05:54:34,714 uvicorn.error INFO     Started server process [76385]
+2020-09-21 05:54:34,714 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:54:34,715 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:54:34,715 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:54:49,458 uvicorn.error INFO     Shutting down
+2020-09-21 05:54:49,559 uvicorn.error INFO     Finished server process [76385]
+2020-09-21 05:54:50,183 uvicorn.error INFO     Started server process [76504]
+2020-09-21 05:54:50,183 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:54:50,184 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:54:50,184 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:55:25,593 uvicorn.error INFO     Shutting down
+2020-09-21 05:55:25,694 uvicorn.error INFO     Finished server process [76504]
+2020-09-21 05:55:26,326 uvicorn.error INFO     Started server process [76749]
+2020-09-21 05:55:26,326 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:55:26,327 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:55:26,327 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:55:40,469 uvicorn.error INFO     Shutting down
+2020-09-21 05:55:40,570 uvicorn.error INFO     Finished server process [76749]
+2020-09-21 05:55:41,218 uvicorn.error INFO     Started server process [76865]
+2020-09-21 05:55:41,218 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:55:41,219 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:55:41,219 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:55:46,235 uvicorn.error INFO     Shutting down
+2020-09-21 05:55:46,335 uvicorn.error INFO     Finished server process [76865]
+2020-09-21 05:55:46,922 uvicorn.error INFO     Started server process [76920]
+2020-09-21 05:55:46,923 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:55:46,923 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:55:46,923 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:55:54,246 uvicorn.error INFO     Shutting down
+2020-09-21 05:55:54,346 uvicorn.error INFO     Finished server process [76920]
+2020-09-21 05:55:54,962 uvicorn.error INFO     Started server process [76986]
+2020-09-21 05:55:54,962 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:55:54,963 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:55:54,963 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:55:59,378 uvicorn.error INFO     Shutting down
+2020-09-21 05:55:59,479 uvicorn.error INFO     Finished server process [76986]
+2020-09-21 05:56:16,792 uvicorn.error INFO     Started server process [77150]
+2020-09-21 05:56:16,793 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:56:16,793 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:56:16,793 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:56:43,151 leaveapp.views INFO     With in a 0.8493378162384033 second, model is open.
+2020-09-21 05:56:43,151 leaveapp.views INFO     slack model open successfully.
+2020-09-21 05:57:23,858 django.request ERROR    Internal Server Error: /admin/leaveapp/leave/40/change/
+Traceback (most recent call last):
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 330, in thread_handler
+    raise exc_info[1]
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 38, in inner
+    response = await get_response(request)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/core/handlers/base.py", line 231, in _get_response_async
+    response = await wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 296, in __call__
+    ret = await asyncio.wait_for(future, timeout=None)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 455, in wait_for
+    return await fut
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/current_thread_executor.py", line 23, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 334, in thread_handler
+    return func(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1656, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1534, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1580, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1093, in save_model
+    obj.save()
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/db/models/base.py", line 801, in save_base
+    post_save.send(
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/dispatch/dispatcher.py", line 177, in send
+    return [
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/django/dispatch/dispatcher.py", line 178, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 139, in __call__
+    return call_result.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+  File "/home/prabin/Codavatar/djangoenv/lib/python3.8/site-packages/asgiref/sync.py", line 204, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+  File "./leaveapp/models.py", line 58, in update_status
+    requests.post(
+NameError: name 'requests' is not defined
+2020-09-21 05:57:44,341 uvicorn.error INFO     Shutting down
+2020-09-21 05:57:44,441 uvicorn.error INFO     Finished server process [77150]
+2020-09-21 05:57:45,142 uvicorn.error INFO     Started server process [77782]
+2020-09-21 05:57:45,142 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:57:45,142 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:57:45,143 uvicorn.error INFO     Application startup complete.
+2020-09-21 05:57:53,570 uvicorn.error INFO     Shutting down
+2020-09-21 05:57:53,670 uvicorn.error INFO     Finished server process [77782]
+2020-09-21 05:57:54,307 uvicorn.error INFO     Started server process [77854]
+2020-09-21 05:57:54,307 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 05:57:54,308 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 05:57:54,308 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:00:49,843 uvicorn.error INFO     Shutting down
+2020-09-21 06:00:49,944 uvicorn.error INFO     Finished server process [77854]
+2020-09-21 06:00:50,661 uvicorn.error INFO     Started server process [79018]
+2020-09-21 06:00:50,661 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:00:50,662 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:00:50,662 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:01:31,544 uvicorn.error INFO     Shutting down
+2020-09-21 06:01:31,644 uvicorn.error INFO     Finished server process [79018]
+2020-09-21 06:01:32,251 uvicorn.error INFO     Started server process [79307]
+2020-09-21 06:01:32,252 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:01:32,252 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:01:32,252 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:01:55,425 uvicorn.error INFO     Shutting down
+2020-09-21 06:01:55,525 uvicorn.error INFO     Finished server process [79307]
+2020-09-21 06:01:56,098 uvicorn.error INFO     Started server process [79482]
+2020-09-21 06:01:56,098 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:01:56,098 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:01:56,098 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:02:03,621 uvicorn.error INFO     Shutting down
+2020-09-21 06:02:03,722 uvicorn.error INFO     Finished server process [79482]
+2020-09-21 06:02:04,266 uvicorn.error INFO     Started server process [79552]
+2020-09-21 06:02:04,266 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:02:04,266 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:02:04,267 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:02:11,588 uvicorn.error INFO     Shutting down
+2020-09-21 06:02:11,689 uvicorn.error INFO     Finished server process [79552]
+2020-09-21 06:02:12,262 uvicorn.error INFO     Started server process [79622]
+2020-09-21 06:02:12,262 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:02:12,262 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:02:12,262 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:02:20,488 uvicorn.error INFO     Shutting down
+2020-09-21 06:02:20,589 uvicorn.error INFO     Finished server process [79622]
+2020-09-21 06:02:21,147 uvicorn.error INFO     Started server process [79698]
+2020-09-21 06:02:21,148 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:02:21,148 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:02:21,148 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:02:28,471 uvicorn.error INFO     Shutting down
+2020-09-21 06:02:28,572 uvicorn.error INFO     Finished server process [79698]
+2020-09-21 06:02:29,196 uvicorn.error INFO     Started server process [79765]
+2020-09-21 06:02:29,196 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:02:29,197 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:02:29,197 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:02:39,027 uvicorn.error INFO     Shutting down
+2020-09-21 06:02:39,127 uvicorn.error INFO     Finished server process [79765]
+2020-09-21 06:02:39,671 uvicorn.error INFO     Started server process [79848]
+2020-09-21 06:02:39,671 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:02:39,671 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:02:39,671 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:02:43,886 uvicorn.error INFO     Shutting down
+2020-09-21 06:02:43,987 uvicorn.error INFO     Finished server process [79848]
+2020-09-21 06:02:44,519 uvicorn.error INFO     Started server process [79897]
+2020-09-21 06:02:44,520 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:02:44,520 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:02:44,520 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:02:59,868 uvicorn.error INFO     Shutting down
+2020-09-21 06:02:59,969 uvicorn.error INFO     Finished server process [79897]
+2020-09-21 06:03:00,547 uvicorn.error INFO     Started server process [80011]
+2020-09-21 06:03:00,548 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:03:00,548 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:03:00,548 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:03:04,362 uvicorn.error INFO     Shutting down
+2020-09-21 06:03:04,463 uvicorn.error INFO     Finished server process [80011]
+2020-09-21 06:03:06,862 uvicorn.error INFO     Started server process [80078]
+2020-09-21 06:03:06,863 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:03:06,863 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:03:06,863 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:03:19,879 leaveapp.views INFO     With in a 0.8670289516448975 second, model is open.
+2020-09-21 06:03:19,880 leaveapp.views INFO     slack model open successfully.
+2020-09-21 06:04:20,916 uvicorn.error INFO     Shutting down
+2020-09-21 06:04:21,017 uvicorn.error INFO     Finished server process [80078]
+2020-09-21 06:04:21,638 uvicorn.error INFO     Started server process [80612]
+2020-09-21 06:04:21,638 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:04:21,638 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:04:21,638 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:04:32,172 uvicorn.error INFO     Shutting down
+2020-09-21 06:04:32,273 uvicorn.error INFO     Finished server process [80612]
+2020-09-21 06:04:32,828 uvicorn.error INFO     Started server process [80706]
+2020-09-21 06:04:32,828 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:04:32,828 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:04:32,828 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:04:42,560 uvicorn.error INFO     Shutting down
+2020-09-21 06:04:42,660 uvicorn.error INFO     Finished server process [80706]
+2020-09-21 06:04:43,202 uvicorn.error INFO     Started server process [80790]
+2020-09-21 06:04:43,203 uvicorn.error INFO     Waiting for application startup.
+2020-09-21 06:04:43,203 uvicorn.error INFO     ASGI 'lifespan' protocol appears unsupported.
+2020-09-21 06:04:43,203 uvicorn.error INFO     Application startup complete.
+2020-09-21 06:04:45,307 uvicorn.error INFO     Shutting down
+2020-09-21 06:04:45,408 uvicorn.error INFO     Finished server process [80790]
